@@ -1,0 +1,22 @@
+01	{PROMPT}
+
+Process HandoffTest_Part1_p001-100.pdf, pages 1–10.
+02	Now process HandoffTest_Part1_p001-100.pdf, pages 11–20. Same instructions and schema. Return only the JSON array.
+03	Now process HandoffTest_Part1_p001-100.pdf, pages 21–30. Same instructions and schema. Return only the JSON array.
+04	Now process HandoffTest_Part1_p001-100.pdf, pages 31–40. Same instructions and schema. Return only the JSON array.
+05	Now process HandoffTest_Part1_p001-100.pdf, pages 41–50. Same instructions and schema. Return only the JSON array.
+06	Now process HandoffTest_Part1_p001-100.pdf, pages 51–60. Same instructions and schema. Return only the JSON array.
+07	Now process HandoffTest_Part1_p001-100.pdf, pages 61–70. Same instructions and schema. Return only the JSON array.
+08	Now process HandoffTest_Part1_p001-100.pdf, pages 71–80. Same instructions and schema. Return only the JSON array.
+09	Now process HandoffTest_Part1_p001-100.pdf, pages 81–90. Same instructions and schema. Return only the JSON array.
+10	Now process HandoffTest_Part1_p001-100.pdf, pages 91–100. Same instructions and schema. Return only the JSON array.
+11	Now process HandoffTest_Part2_p101-200.pdf, pages 1–10. Same instructions and schema. Return only the JSON array.
+12	Now process HandoffTest_Part2_p101-200.pdf, pages 11–20. Same instructions and schema. Return only the JSON array.
+13	Now process HandoffTest_Part2_p101-200.pdf, pages 21–30. Same instructions and schema. Return only the JSON array.
+14	Now process HandoffTest_Part2_p101-200.pdf, pages 31–40. Same instructions and schema. Return only the JSON array.
+15	Now process HandoffTest_Part2_p101-200.pdf, pages 41–50. Same instructions and schema. Return only the JSON array.
+16	Now process HandoffTest_Part2_p101-200.pdf, pages 51–60. Same instructions and schema. Return only the JSON array.
+17	Now process HandoffTest_Part2_p101-200.pdf, pages 61–70. Same instructions and schema. Return only the JSON array.
+18	Now process HandoffTest_Part2_p101-200.pdf, pages 71–80. Same instructions and schema. Return only the JSON array.
+19	Now process HandoffTest_Part2_p101-200.pdf, pages 81–90. Same instructions and schema. Return only the JSON array.
+20	Now process HandoffTest_Part2_p101-200.pdf, pages 91–100. Same instructions and schema. Return only the JSON array.

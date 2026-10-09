@@ -1,0 +1,200 @@
+INBOX of Sam Rivera <sam@tallowfinch.example> · fictional test data · exported Monday 12 October 2026, 08:30
+
+=== Email 1 ===
+From: Priya Natarajan <priya@northwind-bakery.example>
+Date: Mon 12 Oct 07:52
+Subject: URGENT: launch moved to Wednesday
+
+Hi Sam,
+Bad news: our shop launch has moved from Friday to this Wednesday (14 Oct). We need the final menu boards by Tuesday 5pm so the printer can run them overnight. Can you confirm today that this is doable? If not I need to tell the printer by 2pm.
+Thanks, Priya
+
+=== Email 2 ===
+From: Daily Design Digest <news@designdigest.example>
+Date: Mon 12 Oct 06:00
+Subject: 10 font pairings you need this autumn
+
+This week: 10 font pairings, a free mockup pack and our autumn webinar line-up. Unsubscribe any time.
+
+=== Email 3 ===
+From: Accounts – Kestrel Print & Signage <accounts@kestrelprint.example>
+Date: Fri 9 Oct 16:10
+Subject: Reminder: invoice V06-2026-1298 overdue
+
+Dear Sam,
+Our records show invoice V06-2026-1298 for £2,572.35 was due on 25 May 2026 and remains unpaid. Please arrange payment or let us know if there is a problem.
+Kind regards, Accounts team
+
+=== Email 4 ===
+From: Tom Okafor <tom@tallowfinch.example>
+Date: Mon 12 Oct 08:05
+Subject: Sick today
+
+Morning Sam, I've got a fever so I'm staying home today. The Harbor Lane logo files are 90% done in the shared drive if someone needs to finish them. Sorry!
+Tom
+
+=== Email 5 ===
+From: Harbor Lane IT Services <ops@harborlane.example>
+Date: Fri 9 Oct 11:20
+Subject: Re: logo — one small question
+
+Hi Sam, quick one: can the new logo also work in a single colour for our invoices? No rush, end of the month is fine.
+Best, Dana
+
+=== Email 6 ===
+From: SuperSaver Office Deals <deals@supersaver.example>
+Date: Sun 11 Oct 19:00
+Subject: 48h only: 40% off printer paper
+
+Stock up now! 40% off A4 paper, toner and more. Offer ends Tuesday midnight.
+
+=== Email 7 ===
+From: "Account Security" <security-alert@m1crosoft-support.example>
+Date: Mon 12 Oct 03:14
+Subject: Your mailbox will be closed in 24 hours
+
+We detected unusual activity. Verify your password within 24 hours or your mailbox will be deleted: http://m1crosoft-support.example/verify
+
+=== Email 8 ===
+From: Lena Fischer <lena@nordhaven.example>
+Date: Fri 9 Oct 14:45
+Subject: Proposal for a 2027 brand refresh
+
+Hello Sam,
+We'd like a proposal for a full brand refresh in early 2027 (logo, website, packaging). Could you send a rough scope and price range by 23 October? Happy to have a call next week if helpful.
+Lena
+
+=== Email 9 ===
+From: Calendar <calendar@tallowfinch.example>
+Date: Mon 12 Oct 07:00
+Subject: Today: 11:00 Studio stand-up, 15:30 Northwind review call
+
+Reminder of today's events: 11:00–11:15 Studio stand-up; 15:30–16:00 Northwind review call (Priya).
+
+=== Email 10 ===
+From: Marco Bellini <marco@casa-albarel.example>
+Date: Sat 10 Oct 10:30
+Subject: Question about the brochure price
+
+Hi Sam, your quote says €1,800 for the brochure, but I thought we agreed €1,600 on the phone. Can you check? We'd like to approve it this week.
+Marco
+
+=== Email 11 ===
+From: Bank of Testville <noreply@bankoftestville.example>
+Date: Mon 12 Oct 05:00
+Subject: Your monthly statement is ready
+
+Your statement for September 2026 is now available in online banking. We will never ask for your password by email.
+
+=== Email 12 ===
+From: Ava Chen <ava@tallowfinch.example>
+Date: Fri 9 Oct 18:20
+Subject: Holiday request
+
+Hi Sam, could I take 26–30 October off? Everything for Atelier Mirelle will be delivered before then. Let me know when you can.
+Ava
+
+=== Email 13 ===
+From: Atelier Mirelle <studio@ateliermirelle.example>
+Date: Thu 8 Oct 09:15
+Subject: Re: Re: Re: illustration round 2
+
+Thanks for round 2, it's lovely. Small thing buried in our notes from yesterday: our legal team needs the copyright transfer form signed before we can pay the second invoice. Could you sign and send it back? The form is attached to my email from 2 October.
+Camille
+
+=== Email 14 ===
+From: LinkedIn-style Network <notify@prolink.example>
+Date: Sun 11 Oct 12:00
+Subject: You appeared in 9 searches this week
+
+See who's looking at your profile. Upgrade to Premium.
+
+=== Email 15 ===
+From: Oakmere Catering <events@oakmere.example>
+Date: Fri 9 Oct 13:00
+Subject: Studio lunch on 22 Oct — headcount?
+
+Hi Sam, for the studio lunch on Thursday 22 October we need the final headcount and any dietary requirements by Friday 16 October.
+Thanks, Oakmere Catering
+
+=== Email 16 ===
+From: Vela Componentes <ventas@velacomponentes.example>
+Date: Sat 10 Oct 09:00
+Subject: New catalogue 2027
+
+Dear customer, our 2027 catalogue is out. Download it from our website.
+
+=== Email 17 ===
+From: Priya Natarajan <priya@northwind-bakery.example>
+Date: Fri 9 Oct 17:40
+Subject: Menu boards — feedback
+
+Hi Sam, feedback on the menu boards: please make the prices bigger and swap the croissant photo for the sourdough one. Otherwise we're happy!
+Priya
+
+=== Email 18 ===
+From: Zurlinden Software <billing@zurlinden.example>
+Date: Thu 8 Oct 08:00
+Subject: Your licence renews on 1 November
+
+Your annual design-software licence (2 seats) renews automatically on 1 November 2026 for CHF 892.50. No action needed unless you want to change seats.
+
+=== Email 19 ===
+From: Jonas Weber <jonas@freelance-photo.example>
+Date: Sat 10 Oct 15:00
+Subject: Available for the Northwind shoot?
+
+Hey Sam, I can do the Northwind product shoot on Thursday 15 or Friday 16 October. Which day do you want? I need to know by Tuesday to hold the studio.
+Jonas
+
+=== Email 20 ===
+From: Testville Council <rates@testville-council.example>
+Date: Wed 7 Oct 10:00
+Subject: Business rates: direct debit set up
+
+Your direct debit for business rates has been set up. The first payment of £214.00 will be taken on 1 November.
+
+=== Email 21 ===
+From: Webinar Team <events@growthsummit.example>
+Date: Mon 12 Oct 06:30
+Subject: Starting in 2 hours: AI for small business (free)
+
+Join our free webinar today at 10:30. Click to save your seat.
+
+=== Email 22 ===
+From: Dana Price <dana@harborlane.example>
+Date: Mon 12 Oct 08:12
+Subject: Can we move Thursday?
+
+Hi Sam, can we move our Thursday 15 Oct 10:00 logo review to Friday 16 Oct, same time? Let me know.
+Dana
+
+=== Email 23 ===
+From: Courier Tracking <tracking@fastparcel.example>
+Date: Mon 12 Oct 07:30
+Subject: Delivery attempt failed — fee required
+
+We could not deliver your parcel. Pay a £1.99 redelivery fee here: http://fastparcel-redelivery.example/pay
+
+=== Email 24 ===
+From: Ava Chen <ava@tallowfinch.example>
+Date: Mon 12 Oct 08:20
+Subject: Printer for Northwind
+
+Sam — FYI Northwind's printer just emailed me: they can only take files until Tuesday 3pm, not 5pm. Priya might not know yet.
+Ava
+
+=== Email 25 ===
+From: Brightwell Office Supply <orders@brightwell.example>
+Date: Fri 9 Oct 12:00
+Subject: Order #4471 shipped
+
+Your order #4471 (toner, A4 paper) has shipped and will arrive Tuesday.
+
+=== Email 26 ===
+From: Marco Bellini <marco@casa-albarel.example>
+Date: Mon 12 Oct 08:25
+Subject: Re: Question about the brochure price
+
+Sorry Sam, ignore my last email — I found the note, €1,800 was right because we added two pages. We'll approve today.
+Marco

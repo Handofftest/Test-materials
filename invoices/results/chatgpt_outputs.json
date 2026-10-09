@@ -1,0 +1,3120 @@
+[
+{
+"file": "Part1 p1",
+"vendor_id": "V05",
+"vendor_name_as_printed": "Atelier Mirelle SARL",
+"vendor_tax_id": "TEST-V05-67798",
+"invoice_number": "V05-2026-8697",
+"invoice_date": "2026-02-09",
+"due_date": "2026-03-26",
+"currency": "EUR",
+"net_total": "3213.49",
+"tax_total": "674.83",
+"gross_total": "3888.32",
+"anomalies": []
+},
+{
+"file": "Part1 p2",
+"vendor_id": "V06",
+"vendor_name_as_printed": "Kestrel Print & Signage",
+"vendor_tax_id": "TEST-V06-35089",
+"invoice_number": "V06-2026-6755",
+"invoice_date": "2026-03-16",
+"due_date": "2026-04-30",
+"currency": "GBP",
+"net_total": "1757.31",
+"tax_total": "351.47",
+"gross_total": "2108.78",
+"anomalies": []
+},
+{
+"file": "Part1 p3",
+"vendor_id": "V08",
+"vendor_name_as_printed": "Oakmere Catering Ltd",
+"vendor_tax_id": "TEST-V08-69274",
+"invoice_number": "V08-2026-6250",
+"invoice_date": "2026-03-11",
+"due_date": "2026-03-25",
+"currency": "GBP",
+"net_total": "1053.66",
+"tax_total": "210.72",
+"gross_total": "1264.38",
+"anomalies": []
+},
+{
+"file": "Part1 p4",
+"vendor_id": "V01",
+"vendor_name_as_printed": "Brightwell Office Supply Ltd",
+"vendor_tax_id": "TEST-V01-46902",
+"invoice_number": "V01-2026-4078",
+"invoice_date": "2026-06-24",
+"due_date": "2026-07-08",
+"currency": "GBP",
+"net_total": "1287.66",
+"tax_total": "257.54",
+"gross_total": "1545.20",
+"anomalies": []
+},
+{
+"file": "Part1 p5",
+"vendor_id": "V05",
+"vendor_name_as_printed": "Atelier Mirelle SARL",
+"vendor_tax_id": "TEST-V05-67798",
+"invoice_number": "V05-2026-3151",
+"invoice_date": "2026-02-16",
+"due_date": "2026-04-02",
+"currency": "EUR",
+"net_total": "675.63",
+"tax_total": "141.88",
+"gross_total": "817.51",
+"anomalies": [
+{
+"type": "handwritten_total",
+"explanation": "Printed TOTAL DUE of 817.51 EUR is crossed out and manually corrected to 717.51 EUR, marked 'ok'."
+}
+]
+},
+{
+"file": "Part1 p6",
+"vendor_id": "V08",
+"vendor_name_as_printed": "Oakmere Catering Ltd",
+"vendor_tax_id": "TEST-V08-69274",
+"invoice_number": "V08-2026-2742",
+"invoice_date": "2026-03-16",
+"due_date": "2026-04-30",
+"currency": "GBP",
+"net_total": "305.31",
+"tax_total": "61.06",
+"gross_total": "366.37",
+"anomalies": []
+},
+{
+"file": "Part1 p7",
+"vendor_id": "V09",
+"vendor_name_as_printed": "Vela Componentes S.A.",
+"vendor_tax_id": "TEST-V09-41086",
+"invoice_number": "unknown",
+"invoice_date": "2026-07-04",
+"due_date": "2026-08-03",
+"currency": "EUR",
+"net_total": "187.81",
+"tax_total": "39.44",
+"gross_total": "227.25",
+"anomalies": [
+{
+"type": "missing_invoice_number",
+"explanation": "No invoice number is printed on the document."
+}
+]
+},
+{
+"file": "Part1 p8",
+"vendor_id": "V09",
+"vendor_name_as_printed": "Vela Componentes S.A.",
+"vendor_tax_id": "TEST-V09-41086",
+"invoice_number": "V09-2026-2131",
+"invoice_date": "2026-08-24",
+"due_date": "2026-10-08",
+"currency": "EUR",
+"net_total": "369.02",
+"tax_total": "77.50",
+"gross_total": "446.52",
+"anomalies": []
+},
+{
+"file": "Part1 p9",
+"vendor_id": "V09",
+"vendor_name_as_printed": "Vela Componentes S.A.",
+"vendor_tax_id": "TEST-V09-41086",
+"invoice_number": "V09-2026-6955",
+"invoice_date": "2026-01-26",
+"due_date": "2026-02-09",
+"currency": "EUR",
+"net_total": "335.89",
+"tax_total": "70.53",
+"gross_total": "406.42",
+"anomalies": []
+},
+{
+"file": "Part1 p10",
+"vendor_id": "V02",
+"vendor_name_as_printed": "Nordhaven Logistik GmbH",
+"vendor_tax_id": "TEST-V02-58370",
+"invoice_number": "V02-2026-3849",
+"invoice_date": "2026-02-28",
+"due_date": "2026-03-14",
+"currency": "CHF",
+"net_total": "1378.33",
+"tax_total": "111.64",
+"gross_total": "1489.97",
+"anomalies": [
+{
+"type": "foreign_currency",
+"explanation": "Invoice is issued in CHF, whereas the vendor's usual currency is EUR."
+}
+]
+},
+{
+"file": "Part1 p11",
+"vendor_id": "V08",
+"vendor_name_as_printed": "Oakmere Catering Ltd",
+"vendor_tax_id": "TEST-V08-69274",
+"invoice_number": "V08-2026-2451",
+"invoice_date": "2026-07-28",
+"due_date": "2026-09-11",
+"currency": "GBP",
+"net_total": "960.31",
+"tax_total": "192.05",
+"gross_total": "1152.36",
+"anomalies": []
+},
+{
+"file": "Part1 p12",
+"vendor_id": "V04",
+"vendor_name_as_printed": "Pinecrest Cleaning Co.",
+"vendor_tax_id": "TEST-V04-73428",
+"invoice_number": "V04-2026-5876",
+"invoice_date": "2026-08-05",
+"due_date": "2026-09-19",
+"currency": "USD",
+"net_total": "1887.46",
+"tax_total": "94.37",
+"gross_total": "1981.83",
+"anomalies": [
+{
+"type": "vat_miscalc",
+"explanation": "All line items have a 0% tax rate, so expected tax is 0.00 USD, but printed tax is 94.37 USD."
+}
+]
+},
+{
+"file": "Part1 p13",
+"vendor_id": "V05",
+"vendor_name_as_printed": "Atelier Mirelle SARL",
+"vendor_tax_id": "TEST-V05-67798",
+"invoice_number": "V05-2026-6858",
+"invoice_date": "2026-03-31",
+"due_date": "2026-04-14",
+"currency": "EUR",
+"net_total": "1233.78",
+"tax_total": "259.09",
+"gross_total": "1492.87",
+"anomalies": []
+},
+{
+"file": "Part1 p14",
+"vendor_id": "V08",
+"vendor_name_as_printed": "Oakmere Catering Ltd",
+"vendor_tax_id": "TEST-V08-69274",
+"invoice_number": "V08-2026-7786",
+"invoice_date": "2026-05-22",
+"due_date": "2026-06-21",
+"currency": "GBP",
+"net_total": "1046.36",
+"tax_total": "209.28",
+"gross_total": "1255.64",
+"anomalies": []
+},
+{
+"file": "Part1 p15",
+"vendor_id": "V09",
+"vendor_name_as_printed": "Vela Componentes S.A.",
+"vendor_tax_id": "TEST-V09-41086",
+"invoice_number": "V09-2026-8867",
+"invoice_date": "2026-07-24",
+"due_date": "2026-08-07",
+"currency": "EUR",
+"net_total": "128.34",
+"tax_total": "26.95",
+"gross_total": "155.29",
+"anomalies": []
+},
+{
+"file": "Part1 p16",
+"vendor_id": "V10",
+"vendor_name_as_printed": "Harbor Lane IT Services LLC",
+"vendor_tax_id": "TEST-V10-23457",
+"invoice_number": "V10-2026-2238",
+"invoice_date": "2026-04-05",
+"due_date": "2026-05-05",
+"currency": "USD",
+"net_total": "1408.56",
+"tax_total": "0.00",
+"gross_total": "1408.56",
+"anomalies": []
+},
+{
+"file": "Part1 p17",
+"vendor_id": "V02",
+"vendor_name_as_printed": "Nordhaven Logistik GmbH",
+"vendor_tax_id": "TEST-V02-58370",
+"invoice_number": "V02-2026-7295",
+"invoice_date": "2026-07-28",
+"due_date": "2026-09-11",
+"currency": "EUR",
+"net_total": "1720.09",
+"tax_total": "361.23",
+"gross_total": "2081.32",
+"anomalies": []
+},
+{
+"file": "Part1 p18",
+"vendor_id": "V08",
+"vendor_name_as_printed": "Oakmere Catering Ltd",
+"vendor_tax_id": "TEST-V08-69274",
+"invoice_number": "V08-2026-4756",
+"invoice_date": "2026-02-24",
+"due_date": "2026-03-10",
+"currency": "GBP",
+"net_total": "1081.80",
+"tax_total": "54.85",
+"gross_total": "1136.65",
+"anomalies": []
+},
+{
+"file": "Part1 p19",
+"vendor_id": "V07",
+"vendor_name_as_printed": "Zurlinden Software AG",
+"vendor_tax_id": "TEST-V07-75369",
+"invoice_number": "V07-2026-3019",
+"invoice_date": "2026-07-30",
+"due_date": "2026-09-13",
+"currency": "CHF",
+"net_total": "3468.21",
+"tax_total": "280.92",
+"gross_total": "3749.13",
+"anomalies": []
+},
+{
+"file": "Part1 p20",
+"vendor_id": "V09",
+"vendor_name_as_printed": "Vela Componentes S.A.",
+"vendor_tax_id": "TEST-V09-41086",
+"invoice_number": "V09-2026-1473",
+"invoice_date": "2026-08-09",
+"due_date": "2026-08-23",
+"currency": "CHF",
+"net_total": "229.29",
+"tax_total": "18.57",
+"gross_total": "247.86",
+"anomalies": [
+{
+"type": "foreign_currency",
+"explanation": "Invoice is issued in CHF, whereas the vendor's usual currency is EUR."
+}
+]
+},
+{
+"file": "Part1 p21",
+"vendor_id": "V10",
+"vendor_name_as_printed": "Harbor Lane IT Services LLC",
+"vendor_tax_id": "TEST-V10-23457",
+"invoice_number": "V10-2026-9148",
+"invoice_date": "2026-02-14",
+"due_date": "2026-02-28",
+"currency": "USD",
+"net_total": "612.62",
+"tax_total": "0.00",
+"gross_total": "612.62",
+"anomalies": [
+{
+"type": "totals_mismatch",
+"explanation": "Printed net total is 612.62 USD, but the line nets sum to 602.62 USD, a difference of 10.00 USD."
+}
+]
+},
+{
+"file": "Part1 p22",
+"vendor_id": "V03",
+"vendor_name_as_printed": "Casa Albarel S.L.",
+"vendor_tax_id": "TEST-V03-11587",
+"invoice_number": "V03-2026-3281",
+"invoice_date": "2026-02-08",
+"due_date": "2026-03-10",
+"currency": "EUR",
+"net_total": "2039.45",
+"tax_total": "428.29",
+"gross_total": "2467.74",
+"anomalies": []
+},
+{
+"file": "Part1 p23",
+"vendor_id": "V03",
+"vendor_name_as_printed": "Casa Albarel S.L.",
+"vendor_tax_id": "TEST-V03-11587",
+"invoice_number": "V03-2026-3968",
+"invoice_date": "2026-06-02",
+"due_date": "2026-06-16",
+"currency": "USD",
+"net_total": "1569.22",
+"tax_total": "0.00",
+"gross_total": "1569.22",
+"anomalies": [
+{
+"type": "foreign_currency",
+"explanation": "Invoice is issued in USD, whereas the vendor's usual currency is EUR."
+}
+]
+},
+{
+"file": "Part1 p24",
+"vendor_id": "V07",
+"vendor_name_as_printed": "Zurlinden Software AG",
+"vendor_tax_id": "TEST-V07-75369",
+"invoice_number": "V07-2026-5290",
+"invoice_date": "2026-09-04",
+"due_date": "2026-10-04",
+"currency": "CHF",
+"net_total": "2465.46",
+"tax_total": "199.71",
+"gross_total": "2665.17",
+"anomalies": []
+},
+{
+"file": "Part1 p25",
+"vendor_id": "V04",
+"vendor_name_as_printed": "Pinecrest Cleaning Co.",
+"vendor_tax_id": "TEST-V04-73428",
+"invoice_number": "V04-2026-3886",
+"invoice_date": "2026-07-25",
+"due_date": "2026-08-24",
+"currency": "USD",
+"net_total": "548.52",
+"tax_total": "27.43",
+"gross_total": "575.95",
+"anomalies": [
+{
+"type": "vat_miscalc",
+"explanation": "All line items have a 0% tax rate, so expected tax is 0.00 USD, but printed tax is 27.43 USD."
+}
+]
+},
+{
+"file": "Part1 p26",
+"vendor_id": "V10",
+"vendor_name_as_printed": "Harbor Lane IT Services LLC",
+"vendor_tax_id": "TEST-V10-23457",
+"invoice_number": "V10-2026-1969",
+"invoice_date": "2026-07-29",
+"due_date": "2026-08-28",
+"currency": "USD",
+"net_total": "2510.67",
+"tax_total": "0.00",
+"gross_total": "2510.67",
+"anomalies": []
+},
+{
+"file": "Part1 p27",
+"vendor_id": "V06",
+"vendor_name_as_printed": "Kestrel Print & Signage",
+"vendor_tax_id": "TEST-V06-35089",
+"invoice_number": "V06-2026-7697",
+"invoice_date": "unknown",
+"due_date": "unknown",
+"currency": "GBP",
+"net_total": "1182.20",
+"tax_total": "236.44",
+"gross_total": "1418.64",
+"anomalies": [
+{
+"type": "date_ambiguity",
+"explanation": "Invoice date 02/05/2026 and due date 01/06/2026 use ambiguous numeric date formats without an explicitly stated day/month convention."
+}
+]
+},
+{
+"file": "Part1 p28",
+"vendor_id": "V02",
+"vendor_name_as_printed": "Nordhaven Logistik GmbH",
+"vendor_tax_id": "TEST-V02-58370",
+"invoice_number": "V02-2026-1610",
+"invoice_date": "2026-01-31",
+"due_date": "2026-03-02",
+"currency": "EUR",
+"net_total": "1877.48",
+"tax_total": "394.28",
+"gross_total": "2271.76",
+"anomalies": []
+},
+{
+"file": "Part1 p29",
+"vendor_id": "V01",
+"vendor_name_as_printed": "Brightwell Office Supply Ltd",
+"vendor_tax_id": "TEST-V01-46902",
+"invoice_number": "V01-2026-5893",
+"invoice_date": "2026-08-02",
+"due_date": "2026-09-16",
+"currency": "GBP",
+"net_total": "2398.04",
+"tax_total": "479.61",
+"gross_total": "2877.65",
+"anomalies": []
+},
+{
+"file": "Part1 p30",
+"vendor_id": "V07",
+"vendor_name_as_printed": "Zurlinden Software AG",
+"vendor_tax_id": "TEST-V07-75369",
+"invoice_number": "V07-2026-6387",
+"invoice_date": "2026-07-21",
+"due_date": "2026-08-20",
+"currency": "CHF",
+"net_total": "3257.69",
+"tax_total": "263.07",
+"gross_total": "3520.76",
+"anomalies": [
+{
+"type": "totals_mismatch",
+"explanation": "Printed net total is 3257.69 CHF, but the line nets sum to 3247.69 CHF, a difference of 10.00 CHF."
+}
+]
+},
+{
+"file": "Part1 p31",
+"vendor_id": "V10",
+"vendor_name_as_printed": "Harbor Lane IT Services LLC",
+"vendor_tax_id": "TEST-V10-23457",
+"invoice_number": "V10-2026-9321",
+"invoice_date": "2026-07-27",
+"due_date": "2026-08-26",
+"currency": "USD",
+"net_total": "6015.69",
+"tax_total": "0.00",
+"gross_total": "6015.69",
+"anomalies": []
+},
+{
+"file": "Part1 p32",
+"vendor_id": "V09",
+"vendor_name_as_printed": "Vela Componentes S.A.",
+"vendor_tax_id": "TEST-V09-41086",
+"invoice_number": "V09-2026-9522",
+"invoice_date": "unknown",
+"due_date": "unknown",
+"currency": "EUR",
+"net_total": "160.30",
+"tax_total": "33.66",
+"gross_total": "193.96",
+"anomalies": [
+{
+"type": "date_ambiguity",
+"explanation": "Invoice date 06/04/2026 and due date 01/05/2026 use ambiguous numeric date formats without an explicitly stated day/month convention."
+}
+]
+},
+{
+"file": "Part1 p33",
+"vendor_id": "V05",
+"vendor_name_as_printed": "Atelier Mirelle SARL",
+"vendor_tax_id": "TEST-V05-67798",
+"invoice_number": "V05-2026-2822",
+"invoice_date": "2026-03-27",
+"due_date": "2026-04-10",
+"currency": "EUR",
+"net_total": "2079.06",
+"tax_total": "383.96",
+"gross_total": "2463.02",
+"anomalies": []
+},
+{
+"file": "Part1 p34",
+"vendor_id": "V10",
+"vendor_name_as_printed": "Harbor Lane IT Services LLC",
+"vendor_tax_id": "TEST-V10-23457",
+"invoice_number": "V10-2026-8629",
+"invoice_date": "2026-07-17",
+"due_date": "2026-08-31",
+"currency": "USD",
+"net_total": "277.23",
+"tax_total": "0.00",
+"gross_total": "277.23",
+"anomalies": []
+},
+{
+"file": "Part1 p35",
+"vendor_id": "V03",
+"vendor_name_as_printed": "Casa Albarel S.L.",
+"vendor_tax_id": "TEST-V03-11587",
+"invoice_number": "V03-2026-3281",
+"invoice_date": "2026-01-06",
+"due_date": "2026-02-05",
+"currency": "EUR",
+"net_total": "3894.10",
+"tax_total": "817.76",
+"gross_total": "4711.86",
+"anomalies": [
+{
+"type": "duplicate_number",
+"explanation": "Same vendor and invoice number as Part1 p22, but different amounts: Part1 p22 has TOTAL DUE 2467.74 EUR, while this invoice has TOTAL DUE 4711.86 EUR."
+}
+]
+},
+{
+"file": "Part1 p36",
+"vendor_id": "V08",
+"vendor_name_as_printed": "Oakmere Catering Ltd",
+"vendor_tax_id": "TEST-V08-69274",
+"invoice_number": "V08-2026-4640",
+"invoice_date": "2026-08-29",
+"due_date": "2026-09-28",
+"currency": "GBP",
+"net_total": "532.88",
+"tax_total": "106.58",
+"gross_total": "639.46",
+"anomalies": []
+},
+{
+"file": "Part1 p37",
+"vendor_id": "V03",
+"vendor_name_as_printed": "Casa Albarel S.L.",
+"vendor_tax_id": "TEST-V03-11587",
+"invoice_number": "V03-2026-1988",
+"invoice_date": "2026-04-25",
+"due_date": "2026-06-09",
+"currency": "EUR",
+"net_total": "152.64",
+"tax_total": "32.05",
+"gross_total": "184.69",
+"anomalies": []
+},
+{
+"file": "Part1 p38",
+"vendor_id": "V02",
+"vendor_name_as_printed": "Nordhaven Logistik GmbH",
+"vendor_tax_id": "TEST-V02-58370",
+"invoice_number": "V02-2026-7783",
+"invoice_date": "2026-08-09",
+"due_date": "2026-09-08",
+"currency": "EUR",
+"net_total": "1811.22",
+"tax_total": "380.36",
+"gross_total": "2191.58",
+"anomalies": []
+},
+{
+"file": "Part1 p39",
+"vendor_id": "V07",
+"vendor_name_as_printed": "Zurlinden Software AG",
+"vendor_tax_id": "TEST-V07-75369",
+"invoice_number": "V07-2026-2347",
+"invoice_date": "unknown",
+"due_date": "unknown",
+"currency": "CHF",
+"net_total": "637.95",
+"tax_total": "51.67",
+"gross_total": "689.62",
+"anomalies": [
+{
+"type": "date_ambiguity",
+"explanation": "Invoice date 03/05/2026 and due date 01/06/2026 use ambiguous numeric date formats without an explicitly stated day/month convention."
+}
+]
+},
+{
+"file": "Part1 p40",
+"vendor_id": "V01",
+"vendor_name_as_printed": "Brightwell Office Supply Ltd",
+"vendor_tax_id": "TEST-V01-46902",
+"invoice_number": "V01-2026-2343",
+"invoice_date": "2026-08-24",
+"due_date": "2026-09-23",
+"currency": "GBP",
+"net_total": "1891.87",
+"tax_total": "340.54",
+"gross_total": "2232.41",
+"anomalies": [
+{
+"type": "vat_miscalc",
+"explanation": "All line items have a 20% tax rate, giving expected tax of approximately 378.37 GBP, but printed tax is 340.54 GBP."
+}
+]
+},
+{
+"file": "Part1 p41",
+"vendor_id": "V04",
+"vendor_name_as_printed": "Pinecrest Cleaning Co.",
+"vendor_tax_id": "TEST-V04-73428",
+"invoice_number": "V04-2026-5692",
+"invoice_date": "2026-08-19",
+"due_date": "2026-09-02",
+"currency": "EUR",
+"net_total": "1791.40",
+"tax_total": "376.20",
+"gross_total": "2167.60",
+"anomalies": [
+{
+"type": "foreign_currency",
+"explanation": "Invoice is issued in EUR, whereas the vendor's usual currency is USD."
+}
+]
+},
+{
+"file": "Part1 p42",
+"vendor_id": "V09",
+"vendor_name_as_printed": "Vela Componentes S.A.",
+"vendor_tax_id": "TEST-V09-41086",
+"invoice_number": "V09-2026-2131",
+"invoice_date": "2026-08-24",
+"due_date": "2026-10-08",
+"currency": "EUR",
+"net_total": "369.02",
+"tax_total": "77.50",
+"gross_total": "446.52",
+"anomalies": [
+{
+"type": "resent_verbatim",
+"explanation": "Identical copy of the invoice already seen on Part1 p8, with the same vendor, invoice number, dates, line items and amounts."
+}
+]
+},
+{
+"file": "Part1 p43",
+"vendor_id": "V04",
+"vendor_name_as_printed": "Pinecrest Cleaning Co.",
+"vendor_tax_id": "TEST-V04-73428",
+"invoice_number": "V04-2026-7296",
+"invoice_date": "2026-07-05",
+"due_date": "2026-08-19",
+"currency": "USD",
+"net_total": "1885.31",
+"tax_total": "0.00",
+"gross_total": "1885.31",
+"anomalies": []
+},
+{
+"file": "Part1 p44",
+"vendor_id": "V07",
+"vendor_name_as_printed": "Zurlinden Software AG",
+"vendor_tax_id": "TEST-V07-75369",
+"invoice_number": "V07-2026-9872",
+"invoice_date": "2026-08-25",
+"due_date": "2026-10-09",
+"currency": "CHF",
+"net_total": "2663.94",
+"tax_total": "215.78",
+"gross_total": "2879.72",
+"anomalies": []
+},
+{
+"file": "Part1 p45",
+"vendor_id": "V10",
+"vendor_name_as_printed": "Harbor Lane IT Services LLC",
+"vendor_tax_id": "TEST-V10-23457",
+"invoice_number": "V10-2026-6653",
+"invoice_date": "2026-08-19",
+"due_date": "2026-09-02",
+"currency": "USD",
+"net_total": "1086.26",
+"tax_total": "0.00",
+"gross_total": "1086.26",
+"anomalies": []
+},
+{
+"file": "Part1 p46",
+"vendor_id": "V01",
+"vendor_name_as_printed": "Brightwell Office Supply Ltd",
+"vendor_tax_id": "TEST-V01-46902",
+"invoice_number": "V01-2026-4078",
+"invoice_date": "2026-07-19",
+"due_date": "2026-08-18",
+"currency": "GBP",
+"net_total": "1052.40",
+"tax_total": "210.48",
+"gross_total": "1262.88",
+"anomalies": [
+{
+"type": "duplicate_number",
+"explanation": "Same vendor and invoice number as Part1 p4, but different amounts: Part1 p4 has TOTAL DUE 1545.20 GBP, while this invoice has TOTAL DUE 1262.88 GBP."
+}
+]
+},
+{
+"file": "Part1 p47",
+"vendor_id": "V10",
+"vendor_name_as_printed": "Harbor Lane IT Services LLC",
+"vendor_tax_id": "TEST-V10-23457",
+"invoice_number": "V10-2026-1969",
+"invoice_date": "2026-08-12",
+"due_date": "2026-09-26",
+"currency": "USD",
+"net_total": "2166.32",
+"tax_total": "0.00",
+"gross_total": "2166.32",
+"anomalies": [
+{
+"type": "duplicate_number",
+"explanation": "Same vendor and invoice number as Part1 p26, but different amounts: Part1 p26 has TOTAL DUE 2510.67 USD, while this invoice has TOTAL DUE 2166.32 USD."
+}
+]
+},
+{
+"file": "Part1 p48",
+"vendor_id": "V01",
+"vendor_name_as_printed": "Brightwell Office Supply Ltd",
+"vendor_tax_id": "TEST-V01-46902",
+"invoice_number": "V01-2026-3170",
+"invoice_date": "2026-04-03",
+"due_date": "2026-05-18",
+"currency": "EUR",
+"net_total": "650.21",
+"tax_total": "136.54",
+"gross_total": "786.75",
+"anomalies": [
+{
+"type": "foreign_currency",
+"explanation": "Invoice is issued in EUR, whereas the vendor's usual currency is GBP."
+}
+]
+},
+{
+"file": "Part1 p49",
+"vendor_id": "V02",
+"vendor_name_as_printed": "Nordhaven Logistik GmbH",
+"vendor_tax_id": "TEST-V02-58370",
+"invoice_number": "V02-2026-5713",
+"invoice_date": "2026-07-13",
+"due_date": "2026-08-12",
+"currency": "EUR",
+"net_total": "1233.10",
+"tax_total": "258.95",
+"gross_total": "1492.05",
+"anomalies": []
+},
+{
+"file": "Part1 p50",
+"vendor_id": "V01",
+"vendor_name_as_printed": "Brightwell Office Supply Ltd",
+"vendor_tax_id": "TEST-V01-46902",
+"invoice_number": "V01-2026-6241",
+"invoice_date": "2026-05-17",
+"due_date": "2026-05-31",
+"currency": "GBP",
+"net_total": "1919.91",
+"tax_total": "383.98",
+"gross_total": "2303.89",
+"anomalies": []
+},
+{
+"file": "Part1 p51",
+"vendor_id": "V06",
+"vendor_name_as_printed": "Kestrel Print & Signage",
+"vendor_tax_id": "TEST-V06-35089",
+"invoice_number": "V06-2026-7549",
+"invoice_date": "2026-02-22",
+"due_date": "2026-03-08",
+"currency": "GBP",
+"net_total": "668.79",
+"tax_total": "133.76",
+"gross_total": "802.55",
+"anomalies": []
+},
+{
+"file": "Part1 p52",
+"vendor_id": "V01",
+"vendor_name_as_printed": "Brightwell Office Supply Ltd",
+"vendor_tax_id": "TEST-V01-46902",
+"invoice_number": "V01-2026-3525",
+"invoice_date": "2026-01-22",
+"due_date": "2026-02-05",
+"currency": "GBP",
+"net_total": "169.72",
+"tax_total": "33.95",
+"gross_total": "203.67",
+"anomalies": []
+},
+{
+"file": "Part1 p53",
+"vendor_id": "V04",
+"vendor_name_as_printed": "Pinecrest Cleaning Co.",
+"vendor_tax_id": "TEST-V04-73428",
+"invoice_number": "V04-2026-5848",
+"invoice_date": "2026-03-01",
+"due_date": "2026-04-15",
+"currency": "USD",
+"net_total": "2748.58",
+"tax_total": "0.00",
+"gross_total": "2748.58",
+"anomalies": []
+},
+{
+"file": "Part1 p54",
+"vendor_id": "V04",
+"vendor_name_as_printed": "Pinecrest Cleaning Co.",
+"vendor_tax_id": "TEST-V04-73428",
+"invoice_number": "V04-2026-5455",
+"invoice_date": "2026-04-09",
+"due_date": "2026-04-23",
+"currency": "USD",
+"net_total": "422.94",
+"tax_total": "0.00",
+"gross_total": "422.94",
+"anomalies": []
+},
+{
+"file": "Part1 p55",
+"vendor_id": "V07",
+"vendor_name_as_printed": "Zurlinden Software AG",
+"vendor_tax_id": "TEST-V07-75369",
+"invoice_number": "V07-2026-3805",
+"invoice_date": "2026-05-25",
+"due_date": "2026-06-24",
+"currency": "CHF",
+"net_total": "3420.02",
+"tax_total": "277.01",
+"gross_total": "3697.03",
+"anomalies": []
+},
+{
+"file": "Part1 p56",
+"vendor_id": "V10",
+"vendor_name_as_printed": "Harbor Lane IT Services LLC",
+"vendor_tax_id": "TEST-V10-23457",
+"invoice_number": "V10-2026-9526",
+"invoice_date": "2026-02-18",
+"due_date": "2026-03-20",
+"currency": "USD",
+"net_total": "1282.67",
+"tax_total": "0.00",
+"gross_total": "1282.67",
+"anomalies": []
+},
+{
+"file": "Part1 p57",
+"vendor_id": "V05",
+"vendor_name_as_printed": "Atelier Mirelle SARL",
+"vendor_tax_id": "TEST-V05-67798",
+"invoice_number": "V05-2026-4973",
+"invoice_date": "2026-08-23",
+"due_date": "2026-09-22",
+"currency": "EUR",
+"net_total": "1447.21",
+"tax_total": "303.91",
+"gross_total": "1751.12",
+"anomalies": []
+},
+{
+"file": "Part1 p58",
+"vendor_id": "V02",
+"vendor_name_as_printed": "Nordhaven Logistik GmbH",
+"vendor_tax_id": "TEST-V02-58370",
+"invoice_number": "V02-2026-7331",
+"invoice_date": "2026-08-25",
+"due_date": "2026-10-09",
+"currency": "EUR",
+"net_total": "1292.02",
+"tax_total": "271.33",
+"gross_total": "1563.35",
+"anomalies": []
+},
+{
+"file": "Part1 p59",
+"vendor_id": "V08",
+"vendor_name_as_printed": "Oakmere Catering Ltd",
+"vendor_tax_id": "TEST-V08-69274",
+"invoice_number": "V08-2026-3611",
+"invoice_date": "2026-06-20",
+"due_date": "2026-07-04",
+"currency": "GBP",
+"net_total": "983.03",
+"tax_total": "196.61",
+"gross_total": "1179.64",
+"anomalies": []
+},
+{
+"file": "Part1 p60",
+"vendor_id": "V04",
+"vendor_name_as_printed": "Pinecrest Cleaning Co.",
+"vendor_tax_id": "TEST-V04-73428",
+"invoice_number": "V04-2026-3876",
+"invoice_date": "2026-06-04",
+"due_date": "2026-07-19",
+"currency": "USD",
+"net_total": "2074.82",
+"tax_total": "0.00",
+"gross_total": "2074.82",
+"anomalies": []
+},
+{
+"file": "Part1 p61",
+"vendor_id": "V04",
+"vendor_name_as_printed": "Pinecrest Cleaning Co.",
+"vendor_tax_id": "TEST-V04-73428",
+"invoice_number": "unknown",
+"invoice_date": "2026-01-20",
+"due_date": "2026-02-19",
+"currency": "USD",
+"net_total": "2663.65",
+"tax_total": "0.00",
+"gross_total": "2663.65",
+"anomalies": [
+{
+"type": "missing_invoice_number",
+"explanation": "No invoice number is printed on the document."
+}
+]
+},
+{
+"file": "Part1 p62",
+"vendor_id": "V08",
+"vendor_name_as_printed": "Oakmere Catering Ltd",
+"vendor_tax_id": "TEST-V08-69274",
+"invoice_number": "V08-2026-2795",
+"invoice_date": "2026-06-08",
+"due_date": "2026-06-22",
+"currency": "GBP",
+"net_total": "2050.72",
+"tax_total": "410.14",
+"gross_total": "2460.86",
+"anomalies": []
+},
+{
+"file": "Part1 p63",
+"vendor_id": "V10",
+"vendor_name_as_printed": "Harbor Lane IT Services LLC",
+"vendor_tax_id": "TEST-V10-23457",
+"invoice_number": "V10-2026-2309",
+"invoice_date": "2026-02-06",
+"due_date": "2026-03-23",
+"currency": "USD",
+"net_total": "582.32",
+"tax_total": "0.00",
+"gross_total": "582.32",
+"anomalies": []
+},
+{
+"file": "Part1 p64",
+"vendor_id": "V03",
+"vendor_name_as_printed": "Casa Albarel S.L.",
+"vendor_tax_id": "TEST-V03-11587",
+"invoice_number": "V03-2026-3623",
+"invoice_date": "2026-01-26",
+"due_date": "2026-03-12",
+"currency": "EUR",
+"net_total": "1818.48",
+"tax_total": "381.88",
+"gross_total": "2200.36",
+"anomalies": []
+},
+{
+"file": "Part1 p65",
+"vendor_id": "V04",
+"vendor_name_as_printed": "Pinecrest Cleaning Co.",
+"vendor_tax_id": "TEST-V04-73428",
+"invoice_number": "V04-2026-6966",
+"invoice_date": "2026-05-11",
+"due_date": "2026-06-10",
+"currency": "USD",
+"net_total": "1303.67",
+"tax_total": "0.00",
+"gross_total": "1303.67",
+"anomalies": []
+},
+{
+"file": "Part1 p66",
+"vendor_id": "V10",
+"vendor_name_as_printed": "Harbor Lane IT Services LLC",
+"vendor_tax_id": "TEST-V10-23457",
+"invoice_number": "V10-2026-4038",
+"invoice_date": "2026-08-10",
+"due_date": "2026-08-24",
+"currency": "USD",
+"net_total": "1354.89",
+"tax_total": "67.74",
+"gross_total": "1422.63",
+"anomalies": [
+{
+"type": "vat_miscalc",
+"explanation": "All line items have a 0% tax rate, so expected tax is 0.00 USD, but printed tax is 67.74 USD."
+}
+]
+},
+{
+"file": "Part1 p67",
+"vendor_id": "V08",
+"vendor_name_as_printed": "Oakmere Catering Ltd",
+"vendor_tax_id": "TEST-V08-69274",
+"invoice_number": "V08-2026-9166",
+"invoice_date": "2026-03-08",
+"due_date": "2026-03-22",
+"currency": "GBP",
+"net_total": "471.09",
+"tax_total": "94.21",
+"gross_total": "565.30",
+"anomalies": []
+},
+{
+"file": "Part1 p68",
+"vendor_id": "V06",
+"vendor_name_as_printed": "Kestrel Print & Signage",
+"vendor_tax_id": "TEST-V06-35089",
+"invoice_number": "V06-2026-9277",
+"invoice_date": "2026-03-24",
+"due_date": "2026-04-23",
+"currency": "GBP",
+"net_total": "401.04",
+"tax_total": "80.21",
+"gross_total": "481.25",
+"anomalies": []
+},
+{
+"file": "Part1 p69",
+"vendor_id": "V05",
+"vendor_name_as_printed": "Atelier Mirelle SARL",
+"vendor_tax_id": "TEST-V05-67798",
+"invoice_number": "V05-2026-7719",
+"invoice_date": "2026-09-05",
+"due_date": "2026-10-20",
+"currency": "EUR",
+"net_total": "395.15",
+"tax_total": "82.98",
+"gross_total": "478.13",
+"anomalies": []
+},
+{
+"file": "Part1 p70",
+"vendor_id": "V07",
+"vendor_name_as_printed": "ZURLINDEN SOFTWARE AG",
+"vendor_tax_id": "TEST-V07-75369",
+"invoice_number": "V07-2026-7199",
+"invoice_date": "2026-03-30",
+"due_date": "2026-05-14",
+"currency": "CHF",
+"net_total": "349.02",
+"tax_total": "28.27",
+"gross_total": "377.29",
+"anomalies": []
+},
+{
+"file": "Part1 p71",
+"vendor_id": "V09",
+"vendor_name_as_printed": "Vela Componentes S.A.",
+"vendor_tax_id": "TEST-V09-41086",
+"invoice_number": "V09-2026-8946",
+"invoice_date": "2026-06-06",
+"due_date": "2026-06-20",
+"currency": "EUR",
+"net_total": "346.99",
+"tax_total": "72.88",
+"gross_total": "419.87",
+"anomalies": []
+},
+{
+"file": "Part1 p72",
+"vendor_id": "V07",
+"vendor_name_as_printed": "Zurlinden Software AG",
+"vendor_tax_id": "TEST-V07-75369",
+"invoice_number": "V07-2026-7005",
+"invoice_date": "2026-06-24",
+"due_date": "2026-08-08",
+"currency": "CHF",
+"net_total": "3668.96",
+"tax_total": "122.26",
+"gross_total": "3791.22",
+"anomalies": []
+},
+{
+"file": "Part1 p73",
+"vendor_id": "V06",
+"vendor_name_as_printed": "KESTREL PRINT AND SIGNAGE",
+"vendor_tax_id": "TEST-V06-35089",
+"invoice_number": "V06-2026-2517",
+"invoice_date": "2026-01-16",
+"due_date": "2026-03-02",
+"currency": "GBP",
+"net_total": "1950.13",
+"tax_total": "390.02",
+"gross_total": "2340.15",
+"anomalies": []
+},
+{
+"file": "Part1 p74",
+"vendor_id": "V01",
+"vendor_name_as_printed": "Brightwell Office Supply Ltd",
+"vendor_tax_id": "TEST-V01-46902",
+"invoice_number": "V01-2026-7231",
+"invoice_date": "2026-07-07",
+"due_date": "2026-07-21",
+"currency": "GBP",
+"net_total": "1204.60",
+"tax_total": "240.92",
+"gross_total": "1445.52",
+"anomalies": []
+},
+{
+"file": "Part1 p75",
+"vendor_id": "V08",
+"vendor_name_as_printed": "Oakmere Catering Ltd",
+"vendor_tax_id": "TEST-V08-69274",
+"invoice_number": "V08-2026-7258",
+"invoice_date": "2026-03-11",
+"due_date": "2026-04-10",
+"currency": "GBP",
+"net_total": "768.38",
+"tax_total": "153.69",
+"gross_total": "922.07",
+"anomalies": []
+},
+{
+"file": "Part1 p76",
+"vendor_id": "V03",
+"vendor_name_as_printed": "Casa Albarel S.L.",
+"vendor_tax_id": "TEST-V03-11587",
+"invoice_number": "V03-2026-4736",
+"invoice_date": "2026-07-26",
+"due_date": "2026-08-25",
+"currency": "EUR",
+"net_total": "1994.82",
+"tax_total": "418.91",
+"gross_total": "2413.73",
+"anomalies": []
+},
+{
+"file": "Part1 p77",
+"vendor_id": "V02",
+"vendor_name_as_printed": "Nordhaven Logistik GmbH",
+"vendor_tax_id": "TEST-V02-58370",
+"invoice_number": "V02-2026-7350",
+"invoice_date": "2026-08-28",
+"due_date": "2026-10-12",
+"currency": "EUR",
+"net_total": "146.85",
+"tax_total": "30.84",
+"gross_total": "177.69",
+"anomalies": []
+},
+{
+"file": "Part1 p78",
+"vendor_id": "V03",
+"vendor_name_as_printed": "Casa Albarel S.L.",
+"vendor_tax_id": "TEST-V03-11587",
+"invoice_number": "V03-2026-3752",
+"invoice_date": "2026-01-29",
+"due_date": "2026-03-15",
+"currency": "EUR",
+"net_total": "3101.88",
+"tax_total": "651.39",
+"gross_total": "3753.27",
+"anomalies": []
+},
+{
+"file": "Part1 p79",
+"vendor_id": "V01",
+"vendor_name_as_printed": "Brightwell Office Supply Ltd",
+"vendor_tax_id": "TEST-V01-46902",
+"invoice_number": "V01-2026-2703",
+"invoice_date": "2026-01-07",
+"due_date": "2026-02-21",
+"currency": "GBP",
+"net_total": "362.63",
+"tax_total": "72.53",
+"gross_total": "435.16",
+"anomalies": []
+},
+{
+"file": "Part1 p80",
+"vendor_id": "V02",
+"vendor_name_as_printed": "Nordhaven Logistik GmbH",
+"vendor_tax_id": "TEST-V02-58370",
+"invoice_number": "V02-2026-7103",
+"invoice_date": "2026-01-29",
+"due_date": "2026-03-15",
+"currency": "EUR",
+"net_total": "800.55",
+"tax_total": "168.11",
+"gross_total": "968.66",
+"anomalies": []
+},
+{
+"file": "Part1 p81",
+"vendor_id": "V01",
+"vendor_name_as_printed": "Brightwell Office Supply Ltd",
+"vendor_tax_id": "TEST-V01-46902",
+"invoice_number": "V01-2026-2655",
+"invoice_date": "2026-07-11",
+"due_date": "2026-07-25",
+"currency": "GBP",
+"net_total": "871.50",
+"tax_total": "174.31",
+"gross_total": "1045.81",
+"anomalies": []
+},
+{
+"file": "Part1 p82",
+"vendor_id": "V08",
+"vendor_name_as_printed": "Oakmere Catering Ltd",
+"vendor_tax_id": "TEST-V08-69274",
+"invoice_number": "V08-2026-3320",
+"invoice_date": "2026-06-27",
+"due_date": "2026-07-11",
+"currency": "GBP",
+"net_total": "647.43",
+"tax_total": "129.49",
+"gross_total": "776.92",
+"anomalies": []
+},
+{
+"file": "Part1 p83",
+"vendor_id": "V02",
+"vendor_name_as_printed": "Nordhaven Logistik GmbH",
+"vendor_tax_id": "TEST-V02-58370",
+"invoice_number": "V02-2026-1313",
+"invoice_date": "2026-07-01",
+"due_date": "2026-07-31",
+"currency": "EUR",
+"net_total": "1788.22",
+"tax_total": "375.53",
+"gross_total": "2163.75",
+"anomalies": []
+},
+{
+"file": "Part1 p84",
+"vendor_id": "V03",
+"vendor_name_as_printed": "Casa Albarel S.L.",
+"vendor_tax_id": "TEST-V03-11587",
+"invoice_number": "V03-2026-6264",
+"invoice_date": "2026-05-05",
+"due_date": "2026-06-04",
+"currency": "EUR",
+"net_total": "1647.19",
+"tax_total": "345.92",
+"gross_total": "1993.11",
+"anomalies": []
+},
+{
+"file": "Part1 p85",
+"vendor_id": "V05",
+"vendor_name_as_printed": "Atelier Mirelle",
+"vendor_tax_id": "TEST-V05-67798",
+"invoice_number": "V05-2026-4846",
+"invoice_date": "2026-04-10",
+"due_date": "2026-05-10",
+"currency": "EUR",
+"net_total": "403.86",
+"tax_total": "84.81",
+"gross_total": "488.67",
+"anomalies": []
+},
+{
+"file": "Part1 p86",
+"vendor_id": "V01",
+"vendor_name_as_printed": "Brightwell Office Supply Ltd",
+"vendor_tax_id": "TEST-V01-46902",
+"invoice_number": "V01-2026-9715",
+"invoice_date": "2026-01-29",
+"due_date": "2026-03-15",
+"currency": "GBP",
+"net_total": "194.24",
+"tax_total": "38.85",
+"gross_total": "233.09",
+"anomalies": []
+},
+{
+"file": "Part1 p87",
+"vendor_id": "V10",
+"vendor_name_as_printed": "Harbor Lane IT Services LLC",
+"vendor_tax_id": "TEST-V10-23457",
+"invoice_number": "V10-2026-5478",
+"invoice_date": "2026-05-25",
+"due_date": "2026-06-24",
+"currency": "USD",
+"net_total": "5059.62",
+"tax_total": "0.00",
+"gross_total": "5059.62",
+"anomalies": []
+},
+{
+"file": "Part1 p88",
+"vendor_id": "V02",
+"vendor_name_as_printed": "Nordhaven Logistik GmbH",
+"vendor_tax_id": "TEST-V02-58370",
+"invoice_number": "V02-2026-8737",
+"invoice_date": "2026-03-01",
+"due_date": "2026-03-15",
+"currency": "EUR",
+"net_total": "672.94",
+"tax_total": "133.89",
+"gross_total": "806.83",
+"anomalies": []
+},
+{
+"file": "Part1 p89",
+"vendor_id": "V07",
+"vendor_name_as_printed": "Zurlinden Software AG",
+"vendor_tax_id": "TEST-V07-75369",
+"invoice_number": "V07-2026-7224",
+"invoice_date": "2026-05-24",
+"due_date": "2026-06-23",
+"currency": "EUR",
+"net_total": "3585.01",
+"tax_total": "752.85",
+"gross_total": "4337.86",
+"anomalies": [
+{
+"type": "foreign_currency",
+"explanation": "Invoice is issued in EUR, whereas the vendor's usual currency is CHF."
+},
+{
+"type": "handwritten_total",
+"explanation": "Printed TOTAL DUE of 4337.86 EUR is crossed out and manually corrected to 4317.86 EUR, marked 'ok'."
+}
+]
+},
+{
+"file": "Part1 p90",
+"vendor_id": "V02",
+"vendor_name_as_printed": "Nordhaven Logistik GmbH",
+"vendor_tax_id": "TEST-V02-58370",
+"invoice_number": "V02-2026-2390",
+"invoice_date": "2026-06-21",
+"due_date": "2026-07-21",
+"currency": "EUR",
+"net_total": "808.76",
+"tax_total": "169.85",
+"gross_total": "978.61",
+"anomalies": []
+},
+{
+"file": "Part1 p91",
+"vendor_id": "V07",
+"vendor_name_as_printed": "Zurlinden Software AG",
+"vendor_tax_id": "TEST-V07-75369",
+"invoice_number": "V07-2026-7151",
+"invoice_date": "2026-05-04",
+"due_date": "2026-05-18",
+"currency": "CHF",
+"net_total": "2708.55",
+"tax_total": "219.39",
+"gross_total": "2927.94",
+"anomalies": []
+},
+{
+"file": "Part1 p92",
+"vendor_id": "V04",
+"vendor_name_as_printed": "Pinecrest Cleaning Co.",
+"vendor_tax_id": "TEST-V04-73428",
+"invoice_number": "V04-2026-8482",
+"invoice_date": "2026-08-08",
+"due_date": "2026-08-22",
+"currency": "USD",
+"net_total": "170.68",
+"tax_total": "0.00",
+"gross_total": "170.68",
+"anomalies": []
+},
+{
+"file": "Part1 p93",
+"vendor_id": "V05",
+"vendor_name_as_printed": "Atelier Mirelle SARL",
+"vendor_tax_id": "TEST-V05-67798",
+"invoice_number": "V05-2026-4446",
+"invoice_date": "2026-05-24",
+"due_date": "2026-06-07",
+"currency": "EUR",
+"net_total": "3416.17",
+"tax_total": "717.39",
+"gross_total": "4133.56",
+"anomalies": []
+},
+{
+"file": "Part1 p94",
+"vendor_id": "V03",
+"vendor_name_as_printed": "CASA ALBAREL SL",
+"vendor_tax_id": "TEST-V03-11587",
+"invoice_number": "V03-2026-7716",
+"invoice_date": "2026-03-31",
+"due_date": "2026-04-14",
+"currency": "EUR",
+"net_total": "1272.46",
+"tax_total": "293.94",
+"gross_total": "1566.40",
+"anomalies": [
+{
+"type": "vat_miscalc",
+"explanation": "All line items have a 21% tax rate, giving expected tax of 267.22 EUR, but printed tax is 293.94 EUR."
+}
+]
+},
+{
+"file": "Part1 p95",
+"vendor_id": "V06",
+"vendor_name_as_printed": "Kestrel Print & Signage",
+"vendor_tax_id": "TEST-V06-35089",
+"invoice_number": "V06-2026-1298",
+"invoice_date": "2026-04-25",
+"due_date": "2026-05-25",
+"currency": "GBP",
+"net_total": "2267.92",
+"tax_total": "304.43",
+"gross_total": "2572.35",
+"anomalies": []
+},
+{
+"file": "Part1 p96",
+"vendor_id": "V06",
+"vendor_name_as_printed": "Kestrel Print+Signage",
+"vendor_tax_id": "TEST-V06-35089",
+"invoice_number": "V06-2026-8909",
+"invoice_date": "2026-06-17",
+"due_date": "2026-07-17",
+"currency": "GBP",
+"net_total": "2043.21",
+"tax_total": "406.64",
+"gross_total": "2449.85",
+"anomalies": [
+{
+"type": "totals_mismatch",
+"explanation": "Printed net total is 2043.21 GBP, but the line nets sum to 2033.21 GBP, a difference of 10.00 GBP."
+}
+]
+},
+{
+"file": "Part1 p97",
+"vendor_id": "V05",
+"vendor_name_as_printed": "Atelier Mirelle SARL",
+"vendor_tax_id": "TEST-V05-67798",
+"invoice_number": "V05-2026-2576",
+"invoice_date": "2026-01-31",
+"due_date": "2026-03-17",
+"currency": "EUR",
+"net_total": "727.89",
+"tax_total": "152.87",
+"gross_total": "880.76",
+"anomalies": []
+},
+{
+"file": "Part1 p98",
+"vendor_id": "V08",
+"vendor_name_as_printed": "Oakmere Catering Ltd",
+"vendor_tax_id": "TEST-V08-69274",
+"invoice_number": "V08-2026-4710",
+"invoice_date": "2026-08-03",
+"due_date": "2026-09-02",
+"currency": "GBP",
+"net_total": "1237.74",
+"tax_total": "247.55",
+"gross_total": "1485.29",
+"anomalies": []
+},
+{
+"file": "Part1 p99",
+"vendor_id": "V10",
+"vendor_name_as_printed": "Harbor Lane IT Services LLC",
+"vendor_tax_id": "TEST-V10-23457",
+"invoice_number": "V10-2026-9736",
+"invoice_date": "2026-01-11",
+"due_date": "2026-01-25",
+"currency": "USD",
+"net_total": "2856.32",
+"tax_total": "0.00",
+"gross_total": "2856.32",
+"anomalies": []
+},
+{
+"file": "Part1 p100",
+"vendor_id": "V08",
+"vendor_name_as_printed": "Oakmere Catering Ltd",
+"vendor_tax_id": "TEST-V08-69274",
+"invoice_number": "V08-2026-3611",
+"invoice_date": "2026-06-20",
+"due_date": "2026-07-04",
+"currency": "GBP",
+"net_total": "983.03",
+"tax_total": "196.61",
+"gross_total": "1179.64",
+"anomalies": [
+{
+"type": "resent_verbatim",
+"explanation": "Identical copy of the invoice already seen on Part1 p59, with the same vendor, invoice number, dates, line items and amounts."
+}
+]
+},
+{
+"file": "Part2 p1",
+"vendor_id": "V01",
+"vendor_name_as_printed": "Brightwell Office Supply Ltd",
+"vendor_tax_id": "TEST-V01-46902",
+"invoice_number": "V01-2026-7281",
+"invoice_date": "2026-07-13",
+"due_date": "2026-07-27",
+"currency": "GBP",
+"net_total": "964.96",
+"tax_total": "192.99",
+"gross_total": "1157.95",
+"anomalies": []
+},
+{
+"file": "Part2 p2",
+"vendor_id": "V08",
+"vendor_name_as_printed": "Oakmere Catering Ltd",
+"vendor_tax_id": "TEST-V08-69274",
+"invoice_number": "V08-2026-6757",
+"invoice_date": "2026-03-26",
+"due_date": "2026-04-09",
+"currency": "GBP",
+"net_total": "464.15",
+"tax_total": "92.83",
+"gross_total": "556.98",
+"anomalies": []
+},
+{
+"file": "Part2 p3",
+"vendor_id": "V02",
+"vendor_name_as_printed": "Nordhaven Logistik GmbH",
+"vendor_tax_id": "TEST-V02-58370",
+"invoice_number": "V02-2026-1313",
+"invoice_date": "2026-07-19",
+"due_date": "2026-08-18",
+"currency": "EUR",
+"net_total": "1655.37",
+"tax_total": "347.62",
+"gross_total": "2002.99",
+"anomalies": [
+{
+"type": "duplicate_number",
+"explanation": "Same vendor and invoice number as Part1 p83, but different amounts: Part1 p83 has TOTAL DUE 2163.75 EUR, while this invoice has TOTAL DUE 2002.99 EUR."
+}
+]
+},
+{
+"file": "Part2 p4",
+"vendor_id": "V04",
+"vendor_name_as_printed": "Pinecrest Cleaning Co.",
+"vendor_tax_id": "TEST-V04-73428",
+"invoice_number": "V04-2026-3359",
+"invoice_date": "2026-02-26",
+"due_date": "2026-03-12",
+"currency": "USD",
+"net_total": "2000.73",
+"tax_total": "0.00",
+"gross_total": "2000.73",
+"anomalies": []
+},
+{
+"file": "Part2 p5",
+"vendor_id": "V04",
+"vendor_name_as_printed": "Pinecrest Cleaning Co.",
+"vendor_tax_id": "TEST-V04-73428",
+"invoice_number": "V04-2026-9205",
+"invoice_date": "2026-08-20",
+"due_date": "2026-09-19",
+"currency": "USD",
+"net_total": "2151.61",
+"tax_total": "0.00",
+"gross_total": "2151.61",
+"anomalies": []
+},
+{
+"file": "Part2 p6",
+"vendor_id": "V10",
+"vendor_name_as_printed": "Harbor Lane IT Services LLC",
+"vendor_tax_id": "TEST-V10-23457",
+"invoice_number": "V10-2026-8869",
+"invoice_date": "unknown",
+"due_date": "unknown",
+"currency": "CHF",
+"net_total": "3439.09",
+"tax_total": "278.57",
+"gross_total": "3717.66",
+"anomalies": [
+{
+"type": "foreign_currency",
+"explanation": "Invoice is issued in CHF, whereas the vendor's usual currency is USD."
+},
+{
+"type": "date_ambiguity",
+"explanation": "Invoice date 03/04/2026 and due date 01/05/2026 use ambiguous numeric date formats without an explicitly stated day/month convention."
+}
+]
+},
+{
+"file": "Part2 p7",
+"vendor_id": "V05",
+"vendor_name_as_printed": "Atelier Mirelle SARL",
+"vendor_tax_id": "TEST-V05-67798",
+"invoice_number": "V05-2026-4446",
+"invoice_date": "2026-04-20",
+"due_date": "2026-06-04",
+"currency": "EUR",
+"net_total": "1476.90",
+"tax_total": "310.14",
+"gross_total": "1787.04",
+"anomalies": [
+{
+"type": "duplicate_number",
+"explanation": "Same vendor and invoice number as Part1 p93, but different amounts: Part1 p93 has TOTAL DUE 4133.56 EUR, while this invoice has TOTAL DUE 1787.04 EUR."
+}
+]
+},
+{
+"file": "Part2 p8",
+"vendor_id": "V08",
+"vendor_name_as_printed": "Oakmere Catering Ltd",
+"vendor_tax_id": "TEST-V08-69274",
+"invoice_number": "V08-2026-9166",
+"invoice_date": "2026-04-07",
+"due_date": "2026-04-21",
+"currency": "GBP",
+"net_total": "126.42",
+"tax_total": "25.28",
+"gross_total": "151.70",
+"anomalies": [
+{
+"type": "duplicate_number",
+"explanation": "Same vendor and invoice number as Part1 p67, but different amounts: Part1 p67 has TOTAL DUE 565.30 GBP, while this invoice has TOTAL DUE 151.70 GBP."
+}
+]
+},
+{
+"file": "Part2 p9",
+"vendor_id": "V07",
+"vendor_name_as_printed": "Zurlinden Software AG",
+"vendor_tax_id": "TEST-V07-75369",
+"invoice_number": "V07-2026-7050",
+"invoice_date": "2026-04-04",
+"due_date": "2026-05-19",
+"currency": "CHF",
+"net_total": "1171.19",
+"tax_total": "94.86",
+"gross_total": "1266.05",
+"anomalies": []
+},
+{
+"file": "Part2 p10",
+"vendor_id": "V07",
+"vendor_name_as_printed": "Zurlinden Software AG",
+"vendor_tax_id": "TEST-V07-75369",
+"invoice_number": "V07-2026-8074",
+"invoice_date": "2026-05-03",
+"due_date": "2026-05-17",
+"currency": "CHF",
+"net_total": "3272.20",
+"tax_total": "265.04",
+"gross_total": "3537.24",
+"anomalies": []
+},
+{
+"file": "Part2 p11",
+"vendor_id": "V09",
+"vendor_name_as_printed": "Vela Componentes S.A.",
+"vendor_tax_id": "TEST-V09-41086",
+"invoice_number": "V09-2026-2076",
+"invoice_date": "2026-01-27",
+"due_date": "2026-02-26",
+"currency": "EUR",
+"net_total": "217.63",
+"tax_total": "45.70",
+"gross_total": "263.33",
+"anomalies": []
+},
+{
+"file": "Part2 p12",
+"vendor_id": "V02",
+"vendor_name_as_printed": "Nordhaven Logistik GmbH",
+"vendor_tax_id": "TEST-V02-58370",
+"invoice_number": "V02-2026-3461",
+"invoice_date": "2026-01-14",
+"due_date": "2026-02-28",
+"currency": "EUR",
+"net_total": "881.52",
+"tax_total": "183.73",
+"gross_total": "1065.25",
+"anomalies": []
+},
+{
+"file": "Part2 p13",
+"vendor_id": "V02",
+"vendor_name_as_printed": "Nordhaven Logistik GmbH",
+"vendor_tax_id": "TEST-V02-58370",
+"invoice_number": "V02-2026-8802",
+"invoice_date": "2026-01-30",
+"due_date": "2026-03-01",
+"currency": "EUR",
+"net_total": "994.99",
+"tax_total": "208.95",
+"gross_total": "1203.94",
+"anomalies": []
+},
+{
+"file": "Part2 p14",
+"vendor_id": "V06",
+"vendor_name_as_printed": "Kestrel Print & Signage",
+"vendor_tax_id": "TEST-V06-35089",
+"invoice_number": "V06-2026-7745",
+"invoice_date": "2026-05-29",
+"due_date": "2026-07-13",
+"currency": "GBP",
+"net_total": "665.34",
+"tax_total": "133.07",
+"gross_total": "798.41",
+"anomalies": []
+},
+{
+"file": "Part2 p15",
+"vendor_id": "V03",
+"vendor_name_as_printed": "Casa Albarel S.L.",
+"vendor_tax_id": "TEST-V03-11587",
+"invoice_number": "V03-2026-2250",
+"invoice_date": "2026-09-07",
+"due_date": "2026-10-22",
+"currency": "EUR",
+"net_total": "2525.06",
+"tax_total": "530.07",
+"gross_total": "3055.13",
+"anomalies": [
+{
+"type": "totals_mismatch",
+"explanation": "Printed net total is 2525.06 EUR, but the line nets sum to 2524.16 EUR, a difference of 0.90 EUR."
+}
+]
+},
+{
+"file": "Part2 p16",
+"vendor_id": "V07",
+"vendor_name_as_printed": "Zurlinden Software AG",
+"vendor_tax_id": "TEST-V07-75369",
+"invoice_number": "V07-2026-4497",
+"invoice_date": "2026-03-20",
+"due_date": "2026-05-04",
+"currency": "CHF",
+"net_total": "2752.38",
+"tax_total": "222.95",
+"gross_total": "2975.33",
+"anomalies": []
+},
+{
+"file": "Part2 p17",
+"vendor_id": "V06",
+"vendor_name_as_printed": "Kestrel Print & Signage",
+"vendor_tax_id": "TEST-V06-35089",
+"invoice_number": "V06-2026-6153",
+"invoice_date": "2026-08-03",
+"due_date": "2026-08-17",
+"currency": "GBP",
+"net_total": "1310.06",
+"tax_total": "262.01",
+"gross_total": "1572.07",
+"anomalies": []
+},
+{
+"file": "Part2 p18",
+"vendor_id": "V09",
+"vendor_name_as_printed": "Vela Componentes S.A.",
+"vendor_tax_id": "TEST-V09-41086",
+"invoice_number": "V09-2026-4980",
+"invoice_date": "2026-08-28",
+"due_date": "2026-09-11",
+"currency": "EUR",
+"net_total": "181.08",
+"tax_total": "38.03",
+"gross_total": "219.11",
+"anomalies": []
+},
+{
+"file": "Part2 p19",
+"vendor_id": "V04",
+"vendor_name_as_printed": "PINECREST CLEANING CO.",
+"vendor_tax_id": "TEST-V04-73428",
+"invoice_number": "V04-2026-3381",
+"invoice_date": "2026-02-04",
+"due_date": "2026-03-06",
+"currency": "USD",
+"net_total": "1749.24",
+"tax_total": "0.00",
+"gross_total": "1749.24",
+"anomalies": []
+},
+{
+"file": "Part2 p20",
+"vendor_id": "V02",
+"vendor_name_as_printed": "Nordhaven Logistik GmbH",
+"vendor_tax_id": "TEST-V02-58370",
+"invoice_number": "V02-2026-4615",
+"invoice_date": "2026-05-31",
+"due_date": "2026-06-30",
+"currency": "EUR",
+"net_total": "210.97",
+"tax_total": "42.20",
+"gross_total": "253.17",
+"anomalies": [
+{
+"type": "totals_mismatch",
+"explanation": "Printed net total is 210.97 EUR, but the single line net is 200.97 EUR, a difference of 10.00 EUR."
+}
+]
+},
+{
+"file": "Part2 p21",
+"vendor_id": "V04",
+"vendor_name_as_printed": "Pinecrest Cleaning Co.",
+"vendor_tax_id": "TEST-V04-73428",
+"invoice_number": "V04-2026-1976",
+"invoice_date": "2026-01-17",
+"due_date": "2026-02-16",
+"currency": "USD",
+"net_total": "2003.13",
+"tax_total": "0.00",
+"gross_total": "2003.13",
+"anomalies": []
+},
+{
+"file": "Part2 p22",
+"vendor_id": "V04",
+"vendor_name_as_printed": "Pinecrest Cleaning Co.",
+"vendor_tax_id": "TEST-V04-73428",
+"invoice_number": "V04-2026-9298",
+"invoice_date": "2026-01-20",
+"due_date": "2026-02-03",
+"currency": "USD",
+"net_total": "1407.72",
+"tax_total": "0.00",
+"gross_total": "1407.72",
+"anomalies": [
+{
+"type": "totals_mismatch",
+"explanation": "Printed net total is 1407.72 USD, but the line nets sum to 1406.82 USD, a difference of 0.90 USD."
+}
+]
+},
+{
+"file": "Part2 p23",
+"vendor_id": "V01",
+"vendor_name_as_printed": "Brightwell Office Supply Ltd",
+"vendor_tax_id": "TEST-V01-46902",
+"invoice_number": "V01-2026-7369",
+"invoice_date": "2026-02-27",
+"due_date": "2026-04-13",
+"currency": "GBP",
+"net_total": "70.85",
+"tax_total": "15.59",
+"gross_total": "86.44",
+"anomalies": [
+{
+"type": "vat_miscalc",
+"explanation": "The line net of 70.85 GBP at 20% gives expected tax of 14.17 GBP, but printed tax is 15.59 GBP."
+}
+]
+},
+{
+"file": "Part2 p24",
+"vendor_id": "V03",
+"vendor_name_as_printed": "Casa Albarel S.L.",
+"vendor_tax_id": "TEST-V03-11587",
+"invoice_number": "V03-2026-8741",
+"invoice_date": "2026-08-06",
+"due_date": "2026-09-20",
+"currency": "EUR",
+"net_total": "1909.55",
+"tax_total": "401.01",
+"gross_total": "2310.56",
+"anomalies": []
+},
+{
+"file": "Part2 p25",
+"vendor_id": "V01",
+"vendor_name_as_printed": "Brightwell Office Supply Ltd",
+"vendor_tax_id": "TEST-V01-46902",
+"invoice_number": "V01-2026-3061",
+"invoice_date": "2026-03-09",
+"due_date": "2026-04-08",
+"currency": "GBP",
+"net_total": "346.48",
+"tax_total": "67.30",
+"gross_total": "413.78",
+"anomalies": [
+{
+"type": "vat_miscalc",
+"explanation": "The line net of 346.48 GBP at 20% gives expected tax of 69.30 GBP, but printed tax is 67.30 GBP."
+}
+]
+},
+{
+"file": "Part2 p26",
+"vendor_id": "V05",
+"vendor_name_as_printed": "Atelier Mirelle SARL",
+"vendor_tax_id": "TEST-V05-67798",
+"invoice_number": "V05-2026-4684",
+"invoice_date": "2026-02-27",
+"due_date": "2026-03-29",
+"currency": "EUR",
+"net_total": "1419.33",
+"tax_total": "298.06",
+"gross_total": "1717.39",
+"anomalies": []
+},
+{
+"file": "Part2 p27",
+"vendor_id": "V02",
+"vendor_name_as_printed": "Nordhaven Logistik GmbH",
+"vendor_tax_id": "TEST-V02-58370",
+"invoice_number": "V02-2026-7783",
+"invoice_date": "2026-07-27",
+"due_date": "2026-08-26",
+"currency": "EUR",
+"net_total": "832.23",
+"tax_total": "174.77",
+"gross_total": "1007.00",
+"anomalies": [
+{
+"type": "duplicate_number",
+"explanation": "Same vendor and invoice number as Part1 p38, but different amounts: Part1 p38 has TOTAL DUE 2191.58 EUR, while this invoice has TOTAL DUE 1007.00 EUR."
+}
+]
+},
+{
+"file": "Part2 p28",
+"vendor_id": "V08",
+"vendor_name_as_printed": "Oakmere Catering Ltd",
+"vendor_tax_id": "TEST-V08-69274",
+"invoice_number": "V08-2026-3570",
+"invoice_date": "2026-08-14",
+"due_date": "2026-09-28",
+"currency": "GBP",
+"net_total": "906.68",
+"tax_total": "181.35",
+"gross_total": "1088.03",
+"anomalies": []
+},
+{
+"file": "Part2 p29",
+"vendor_id": "V07",
+"vendor_name_as_printed": "Zurlinden Software AG",
+"vendor_tax_id": "TEST-V07-75369",
+"invoice_number": "V07-2026-4871",
+"invoice_date": "2026-05-04",
+"due_date": "2026-05-18",
+"currency": "CHF",
+"net_total": "4532.14",
+"tax_total": "367.11",
+"gross_total": "4899.25",
+"anomalies": []
+},
+{
+"file": "Part2 p30",
+"vendor_id": "V07",
+"vendor_name_as_printed": "Zurlinden Software AG",
+"vendor_tax_id": "TEST-V07-75369",
+"invoice_number": "V07-2026-8958",
+"invoice_date": "2026-09-06",
+"due_date": "2026-10-06",
+"currency": "CHF",
+"net_total": "1864.86",
+"tax_total": "135.95",
+"gross_total": "2000.81",
+"anomalies": [
+{
+"type": "vat_miscalc",
+"explanation": "Both line items have an 8.1% tax rate, giving expected tax of 151.05 CHF, but printed tax is 135.95 CHF."
+}
+]
+},
+{
+"file": "Part2 p31",
+"vendor_id": "V07",
+"vendor_name_as_printed": "Zurlinden Software AG",
+"vendor_tax_id": "TEST-V07-75369",
+"invoice_number": "V07-2026-2534",
+"invoice_date": "2026-05-18",
+"due_date": "2026-06-01",
+"currency": "CHF",
+"net_total": "3178.81",
+"tax_total": "257.49",
+"gross_total": "3436.30",
+"anomalies": []
+},
+{
+"file": "Part2 p32",
+"vendor_id": "V10",
+"vendor_name_as_printed": "Harbor Lane IT Services LLC",
+"vendor_tax_id": "TEST-V10-23457",
+"invoice_number": "V10-2026-4391",
+"invoice_date": "2026-06-20",
+"due_date": "2026-07-20",
+"currency": "USD",
+"net_total": "1797.74",
+"tax_total": "0.00",
+"gross_total": "1797.74",
+"anomalies": []
+},
+{
+"file": "Part2 p33",
+"vendor_id": "V10",
+"vendor_name_as_printed": "Harbor Lane IT Services LLC",
+"vendor_tax_id": "TEST-V10-23457",
+"invoice_number": "V10-2026-5383",
+"invoice_date": "2026-02-28",
+"due_date": "2026-04-14",
+"currency": "USD",
+"net_total": "6414.56",
+"tax_total": "320.73",
+"gross_total": "6735.29",
+"anomalies": [
+{
+"type": "vat_miscalc",
+"explanation": "All line items have a 0% tax rate, so expected tax is 0.00 USD, but printed tax is 320.73 USD."
+}
+]
+},
+{
+"file": "Part2 p34",
+"vendor_id": "V04",
+"vendor_name_as_printed": "Pinecrest Cleaning Co.",
+"vendor_tax_id": "TEST-V04-73428",
+"invoice_number": "V04-2026-7296",
+"invoice_date": "2026-08-08",
+"due_date": "2026-09-07",
+"currency": "USD",
+"net_total": "1309.86",
+"tax_total": "0.00",
+"gross_total": "1309.86",
+"anomalies": [
+{
+"type": "duplicate_number",
+"explanation": "Same vendor and invoice number as Part1 p43, but different amounts: Part1 p43 has TOTAL DUE 1885.31 USD, while this invoice has TOTAL DUE 1309.86 USD."
+}
+]
+},
+{
+"file": "Part2 p35",
+"vendor_id": "V02",
+"vendor_name_as_printed": "Nordhaven Logistik GmbH",
+"vendor_tax_id": "TEST-V02-58370",
+"invoice_number": "V02-2026-4390",
+"invoice_date": "2026-05-10",
+"due_date": "2026-06-24",
+"currency": "EUR",
+"net_total": "1329.94",
+"tax_total": "251.36",
+"gross_total": "1581.30",
+"anomalies": [
+{
+"type": "vat_miscalc",
+"explanation": "All line items have a 21% tax rate, giving expected tax of 279.29 EUR, but printed tax is 251.36 EUR."
+}
+]
+},
+{
+"file": "Part2 p36",
+"vendor_id": "V09",
+"vendor_name_as_printed": "Vela Componentes S.A.",
+"vendor_tax_id": "TEST-V09-41086",
+"invoice_number": "V09-2026-6315",
+"invoice_date": "2026-08-06",
+"due_date": "2026-09-05",
+"currency": "EUR",
+"net_total": "677.73",
+"tax_total": "142.33",
+"gross_total": "820.06",
+"anomalies": []
+},
+{
+"file": "Part2 p37",
+"vendor_id": "V07",
+"vendor_name_as_printed": "Zurlinden Software AG",
+"vendor_tax_id": "TEST-V07-75369",
+"invoice_number": "V07-2026-2518",
+"invoice_date": "2026-07-14",
+"due_date": "2026-08-13",
+"currency": "CHF",
+"net_total": "3167.39",
+"tax_total": "320.69",
+"gross_total": "3488.08",
+"anomalies": [
+{
+"type": "vat_miscalc",
+"explanation": "All line items have an 8.1% tax rate, giving expected tax of approximately 256.56 CHF, but printed tax is 320.69 CHF."
+}
+]
+},
+{
+"file": "Part2 p38",
+"vendor_id": "V07",
+"vendor_name_as_printed": "Zurlinden Software AG",
+"vendor_tax_id": "TEST-V07-75369",
+"invoice_number": "V07-2026-7081",
+"invoice_date": "2026-05-11",
+"due_date": "2026-06-10",
+"currency": "CHF",
+"net_total": "1375.81",
+"tax_total": "111.44",
+"gross_total": "1487.25",
+"anomalies": []
+},
+{
+"file": "Part2 p39",
+"vendor_id": "V08",
+"vendor_name_as_printed": "Oakmere Catering Ltd",
+"vendor_tax_id": "TEST-V08-69274",
+"invoice_number": "V08-2026-4710",
+"invoice_date": "2026-09-07",
+"due_date": "2026-09-21",
+"currency": "GBP",
+"net_total": "647.89",
+"tax_total": "129.57",
+"gross_total": "777.46",
+"anomalies": [
+{
+"type": "duplicate_number",
+"explanation": "Same vendor and invoice number as Part1 p98, but different amounts: Part1 p98 has TOTAL DUE 1485.29 GBP, while this invoice has TOTAL DUE 777.46 GBP."
+}
+]
+},
+{
+"file": "Part2 p40",
+"vendor_id": "V04",
+"vendor_name_as_printed": "Pinecrest Cleaning Co.",
+"vendor_tax_id": "TEST-V04-73428",
+"invoice_number": "V04-2026-6550",
+"invoice_date": "2026-07-09",
+"due_date": "2026-08-08",
+"currency": "USD",
+"net_total": "660.40",
+"tax_total": "0.00",
+"gross_total": "660.40",
+"anomalies": []
+},
+{
+"file": "Part2 p41",
+"vendor_id": "V07",
+"vendor_name_as_printed": "Zurlinden Software AG",
+"vendor_tax_id": "TEST-V07-75369",
+"invoice_number": "V07-2026-8995",
+"invoice_date": "2026-01-06",
+"due_date": "2026-02-20",
+"currency": "CHF",
+"net_total": "2707.89",
+"tax_total": "211.23",
+"gross_total": "2919.12",
+"anomalies": [
+{
+"type": "totals_mismatch",
+"explanation": "Printed net total is 2707.89 CHF, but the line nets sum to 2607.89 CHF, a difference of 100.00 CHF."
+}
+]
+},
+{
+"file": "Part2 p42",
+"vendor_id": "V07",
+"vendor_name_as_printed": "Zurlinden Software",
+"vendor_tax_id": "TEST-V07-75369",
+"invoice_number": "V07-2026-3905",
+"invoice_date": "2026-01-17",
+"due_date": "2026-02-16",
+"currency": "CHF",
+"net_total": "2287.63",
+"tax_total": "98.88",
+"gross_total": "2386.51",
+"anomalies": []
+},
+{
+"file": "Part2 p43",
+"vendor_id": "V07",
+"vendor_name_as_printed": "Zurlinden Software AG",
+"vendor_tax_id": "TEST-V07-75369",
+"invoice_number": "V07-2026-4874",
+"invoice_date": "2026-04-30",
+"due_date": "2026-06-14",
+"currency": "CHF",
+"net_total": "1655.32",
+"tax_total": "134.08",
+"gross_total": "1789.40",
+"anomalies": []
+},
+{
+"file": "Part2 p44",
+"vendor_id": "V01",
+"vendor_name_as_printed": "Brightwell Office Supply Ltd",
+"vendor_tax_id": "TEST-V01-46902",
+"invoice_number": "V01-2026-8701",
+"invoice_date": "2026-03-29",
+"due_date": "2026-04-12",
+"currency": "GBP",
+"net_total": "794.45",
+"tax_total": "158.89",
+"gross_total": "953.34",
+"anomalies": []
+},
+{
+"file": "Part2 p45",
+"vendor_id": "V01",
+"vendor_name_as_printed": "Brightwell Office Supply Ltd",
+"vendor_tax_id": "TEST-V01-46902",
+"invoice_number": "V01-2026-2364",
+"invoice_date": "2026-08-20",
+"due_date": "2026-09-19",
+"currency": "GBP",
+"net_total": "1481.34",
+"tax_total": "296.26",
+"gross_total": "1777.60",
+"anomalies": []
+},
+{
+"file": "Part2 p46",
+"vendor_id": "V08",
+"vendor_name_as_printed": "Oakmere Catering Ltd",
+"vendor_tax_id": "TEST-V08-69274",
+"invoice_number": "V08-2026-7258",
+"invoice_date": "2026-03-11",
+"due_date": "2026-04-10",
+"currency": "GBP",
+"net_total": "768.38",
+"tax_total": "153.69",
+"gross_total": "922.07",
+"anomalies": [
+{
+"type": "resent_verbatim",
+"explanation": "Identical copy of the invoice already seen on Part1 p75, with the same vendor, invoice number, dates, line items and amounts."
+}
+]
+},
+{
+"file": "Part2 p47",
+"vendor_id": "V09",
+"vendor_name_as_printed": "Vela Componentes S.A.",
+"vendor_tax_id": "TEST-V09-41086",
+"invoice_number": "V09-2026-1075",
+"invoice_date": "2026-07-06",
+"due_date": "2026-08-20",
+"currency": "EUR",
+"net_total": "364.08",
+"tax_total": "76.46",
+"gross_total": "440.54",
+"anomalies": []
+},
+{
+"file": "Part2 p48",
+"vendor_id": "V05",
+"vendor_name_as_printed": "Atelier Mirelle SARL",
+"vendor_tax_id": "TEST-V05-67798",
+"invoice_number": "V05-2026-7756",
+"invoice_date": "2026-07-22",
+"due_date": "2026-09-05",
+"currency": "EUR",
+"net_total": "1817.62",
+"tax_total": "381.70",
+"gross_total": "2199.32",
+"anomalies": []
+},
+{
+"file": "Part2 p49",
+"vendor_id": "V10",
+"vendor_name_as_printed": "Harbor Lane IT Services LLC",
+"vendor_tax_id": "TEST-V10-23457",
+"invoice_number": "V10-2026-9890",
+"invoice_date": "2026-08-18",
+"due_date": "2026-09-17",
+"currency": "EUR",
+"net_total": "6521.69",
+"tax_total": "1369.57",
+"gross_total": "7891.26",
+"anomalies": [
+{
+"type": "foreign_currency",
+"explanation": "Invoice is issued in EUR, whereas the vendor's usual currency is USD."
+}
+]
+},
+{
+"file": "Part2 p50",
+"vendor_id": "V09",
+"vendor_name_as_printed": "Vela Componentes S.A.",
+"vendor_tax_id": "TEST-V09-41086",
+"invoice_number": "V09-2026-2908",
+"invoice_date": "2026-02-02",
+"due_date": "2026-02-16",
+"currency": "EUR",
+"net_total": "713.80",
+"tax_total": "149.89",
+"gross_total": "863.69",
+"anomalies": []
+},
+{
+"file": "Part2 p51",
+"vendor_id": "V01",
+"vendor_name_as_printed": "Brightwell Office Supply Ltd",
+"vendor_tax_id": "TEST-V01-46902",
+"invoice_number": "V01-2026-8155",
+"invoice_date": "2026-06-06",
+"due_date": "2026-07-21",
+"currency": "GBP",
+"net_total": "1081.05",
+"tax_total": "216.22",
+"gross_total": "1297.27",
+"anomalies": []
+},
+{
+"file": "Part2 p52",
+"vendor_id": "V07",
+"vendor_name_as_printed": "Zurlinden Software AG",
+"vendor_tax_id": "TEST-V07-75369",
+"invoice_number": "V07-2026-3274",
+"invoice_date": "2026-05-31",
+"due_date": "2026-07-15",
+"currency": "CHF",
+"net_total": "1356.40",
+"tax_total": "109.86",
+"gross_total": "1466.26",
+"anomalies": []
+},
+{
+"file": "Part2 p53",
+"vendor_id": "V08",
+"vendor_name_as_printed": "Oakmere Catering Ltd",
+"vendor_tax_id": "TEST-V08-69274",
+"invoice_number": "unknown",
+"invoice_date": "2026-09-12",
+"due_date": "2026-09-26",
+"currency": "GBP",
+"net_total": "1283.77",
+"tax_total": "256.75",
+"gross_total": "1540.52",
+"anomalies": [
+{
+"type": "missing_invoice_number",
+"explanation": "No invoice number is printed on the document."
+}
+]
+},
+{
+"file": "Part2 p54",
+"vendor_id": "V04",
+"vendor_name_as_printed": "Pinecrest Cleaning Co.",
+"vendor_tax_id": "TEST-V04-73428",
+"invoice_number": "V04-2026-4441",
+"invoice_date": "2026-07-02",
+"due_date": "2026-08-16",
+"currency": "USD",
+"net_total": "1210.62",
+"tax_total": "0.00",
+"gross_total": "1210.62",
+"anomalies": []
+},
+{
+"file": "Part2 p55",
+"vendor_id": "V07",
+"vendor_name_as_printed": "Zurlinden Software AG",
+"vendor_tax_id": "TEST-V07-75369",
+"invoice_number": "V07-2026-2975",
+"invoice_date": "2026-03-19",
+"due_date": "2026-04-18",
+"currency": "CHF",
+"net_total": "1677.85",
+"tax_total": "135.91",
+"gross_total": "1813.76",
+"anomalies": []
+},
+{
+"file": "Part2 p56",
+"vendor_id": "V04",
+"vendor_name_as_printed": "Pinecrest Cleaning Co.",
+"vendor_tax_id": "TEST-V04-73428",
+"invoice_number": "V04-2026-4505",
+"invoice_date": "2026-02-19",
+"due_date": "2026-03-05",
+"currency": "USD",
+"net_total": "1031.00",
+"tax_total": "0.00",
+"gross_total": "1031.00",
+"anomalies": []
+},
+{
+"file": "Part2 p57",
+"vendor_id": "V08",
+"vendor_name_as_printed": "Oakmere Catering Ltd",
+"vendor_tax_id": "TEST-V08-69274",
+"invoice_number": "V08-2026-9282",
+"invoice_date": "2026-08-15",
+"due_date": "2026-09-14",
+"currency": "CHF",
+"net_total": "781.86",
+"tax_total": "63.34",
+"gross_total": "845.20",
+"anomalies": [
+{
+"type": "foreign_currency",
+"explanation": "Invoice is issued in CHF, whereas the vendor's usual currency is GBP."
+}
+]
+},
+{
+"file": "Part2 p58",
+"vendor_id": "V04",
+"vendor_name_as_printed": "Pinecrest Cleaning Co.",
+"vendor_tax_id": "TEST-V04-73428",
+"invoice_number": "V04-2026-2780",
+"invoice_date": "2026-06-08",
+"due_date": "2026-07-23",
+"currency": "USD",
+"net_total": "954.28",
+"tax_total": "0.00",
+"gross_total": "954.28",
+"anomalies": [
+{
+"type": "handwritten_total",
+"explanation": "Printed TOTAL DUE of 954.28 USD is crossed out and manually corrected to 854.28 USD, marked 'ok'."
+}
+]
+},
+{
+"file": "Part2 p59",
+"vendor_id": "V09",
+"vendor_name_as_printed": "Vela Componentes S.A.",
+"vendor_tax_id": "TEST-V09-41086",
+"invoice_number": "V09-2026-1531",
+"invoice_date": "2026-05-10",
+"due_date": "2026-05-24",
+"currency": "EUR",
+"net_total": "349.14",
+"tax_total": "73.31",
+"gross_total": "422.45",
+"anomalies": []
+},
+{
+"file": "Part2 p60",
+"vendor_id": "V05",
+"vendor_name_as_printed": "Atelier Mirelle SARL",
+"vendor_tax_id": "TEST-V05-67798",
+"invoice_number": "V05-2026-8155",
+"invoice_date": "2026-05-20",
+"due_date": "2026-06-19",
+"currency": "EUR",
+"net_total": "4401.07",
+"tax_total": "924.23",
+"gross_total": "5325.30",
+"anomalies": []
+},
+{
+"file": "Part2 p61",
+"vendor_id": "V01",
+"vendor_name_as_printed": "Brightwell Office Supply Ltd",
+"vendor_tax_id": "TEST-V01-46902",
+"invoice_number": "V01-2026-3525",
+"invoice_date": "2026-01-22",
+"due_date": "2026-02-05",
+"currency": "GBP",
+"net_total": "169.72",
+"tax_total": "33.95",
+"gross_total": "203.67",
+"anomalies": [
+{
+"type": "resent_verbatim",
+"explanation": "Identical copy of the invoice already seen on Part1 p52, with the same vendor, invoice number, dates, line items and amounts."
+}
+]
+},
+{
+"file": "Part2 p62",
+"vendor_id": "V01",
+"vendor_name_as_printed": "Brightwell Office Supply Ltd",
+"vendor_tax_id": "TEST-V01-46902",
+"invoice_number": "V01-2026-2827",
+"invoice_date": "2026-02-22",
+"due_date": "2026-03-08",
+"currency": "GBP",
+"net_total": "66.05",
+"tax_total": "13.21",
+"gross_total": "79.26",
+"anomalies": []
+},
+{
+"file": "Part2 p63",
+"vendor_id": "V10",
+"vendor_name_as_printed": "Harbor Lane IT Services LLC",
+"vendor_tax_id": "TEST-V10-23457",
+"invoice_number": "V10-2026-9261",
+"invoice_date": "2026-04-20",
+"due_date": "2026-06-04",
+"currency": "GBP",
+"net_total": "2031.38",
+"tax_total": "406.27",
+"gross_total": "2437.65",
+"anomalies": [
+{
+"type": "foreign_currency",
+"explanation": "Invoice is issued in GBP, whereas the vendor's usual currency is USD."
+}
+]
+},
+{
+"file": "Part2 p64",
+"vendor_id": "V01",
+"vendor_name_as_printed": "Brightwell Office Supply Ltd",
+"vendor_tax_id": "TEST-V01-46902",
+"invoice_number": "V01-2026-7214",
+"invoice_date": "2026-03-08",
+"due_date": "2026-04-07",
+"currency": "GBP",
+"net_total": "411.08",
+"tax_total": "82.22",
+"gross_total": "493.30",
+"anomalies": []
+},
+{
+"file": "Part2 p65",
+"vendor_id": "V07",
+"vendor_name_as_printed": "Zurlinden Software AG",
+"vendor_tax_id": "TEST-V07-75369",
+"invoice_number": "V07-2026-2534",
+"invoice_date": "2026-05-11",
+"due_date": "2026-06-25",
+"currency": "CHF",
+"net_total": "3310.45",
+"tax_total": "268.14",
+"gross_total": "3578.59",
+"anomalies": [
+{
+"type": "duplicate_number",
+"explanation": "Same vendor and invoice number as Part2 p31, but different amounts: Part2 p31 has TOTAL DUE 3436.30 CHF, while this invoice has TOTAL DUE 3578.59 CHF."
+}
+]
+},
+{
+"file": "Part2 p66",
+"vendor_id": "V03",
+"vendor_name_as_printed": "Casa Albarel S.L.",
+"vendor_tax_id": "TEST-V03-11587",
+"invoice_number": "V03-2026-7383",
+"invoice_date": "unknown",
+"due_date": "unknown",
+"currency": "EUR",
+"net_total": "2296.52",
+"tax_total": "482.28",
+"gross_total": "2778.80",
+"anomalies": [
+{
+"type": "date_ambiguity",
+"explanation": "Invoice date 06/04/2026 and due date 01/05/2026 use ambiguous numeric date formats without an explicitly stated day/month convention."
+}
+]
+},
+{
+"file": "Part2 p67",
+"vendor_id": "V06",
+"vendor_name_as_printed": "Kestrel Print & Signage",
+"vendor_tax_id": "TEST-V06-35089",
+"invoice_number": "V06-2026-1581",
+"invoice_date": "2026-09-11",
+"due_date": "2026-10-26",
+"currency": "GBP",
+"net_total": "2512.40",
+"tax_total": "502.47",
+"gross_total": "3014.87",
+"anomalies": []
+},
+{
+"file": "Part2 p68",
+"vendor_id": "V01",
+"vendor_name_as_printed": "Brightwell Office Supply Limited",
+"vendor_tax_id": "TEST-V01-46902",
+"invoice_number": "V01-2026-4014",
+"invoice_date": "unknown",
+"due_date": "unknown",
+"currency": "GBP",
+"net_total": "480.50",
+"tax_total": "96.10",
+"gross_total": "576.60",
+"anomalies": [
+{
+"type": "date_ambiguity",
+"explanation": "Invoice date 01/02/2026 and due date 01/04/2026 use ambiguous numeric date formats without an explicitly stated day/month convention."
+}
+]
+},
+{
+"file": "Part2 p69",
+"vendor_id": "V02",
+"vendor_name_as_printed": "Nordhaven Logistik GmbH",
+"vendor_tax_id": "TEST-V02-58370",
+"invoice_number": "V02-2026-5381",
+"invoice_date": "2026-03-05",
+"due_date": "2026-03-19",
+"currency": "EUR",
+"net_total": "1420.82",
+"tax_total": "298.38",
+"gross_total": "1719.20",
+"anomalies": []
+},
+{
+"file": "Part2 p70",
+"vendor_id": "V02",
+"vendor_name_as_printed": "Nordhaven Logistik GmbH",
+"vendor_tax_id": "TEST-V02-58370",
+"invoice_number": "V02-2026-8338",
+"invoice_date": "2026-03-17",
+"due_date": "2026-05-01",
+"currency": "EUR",
+"net_total": "72.25",
+"tax_total": "15.17",
+"gross_total": "87.42",
+"anomalies": []
+},
+{
+"file": "Part2 p71",
+"vendor_id": "V06",
+"vendor_name_as_printed": "Kestrel Print & Signage",
+"vendor_tax_id": "TEST-V06-35089",
+"invoice_number": "V06-2026-3062",
+"invoice_date": "2026-05-07",
+"due_date": "2026-05-21",
+"currency": "GBP",
+"net_total": "1954.03",
+"tax_total": "390.81",
+"gross_total": "2344.84",
+"anomalies": [
+{
+"type": "handwritten_total",
+"explanation": "Printed TOTAL DUE of 2344.84 GBP is crossed out and manually corrected to 2294.84 GBP, marked 'ok'."
+}
+]
+},
+{
+"file": "Part2 p72",
+"vendor_id": "V04",
+"vendor_name_as_printed": "Pinecrest Cleaning Co.",
+"vendor_tax_id": "TEST-V04-73428",
+"invoice_number": "V04-2026-4441",
+"invoice_date": "2026-07-02",
+"due_date": "2026-08-16",
+"currency": "USD",
+"net_total": "1210.62",
+"tax_total": "0.00",
+"gross_total": "1210.62",
+"anomalies": [
+{
+"type": "resent_verbatim",
+"explanation": "Identical copy of the invoice already seen on Part2 p54, with the same vendor, invoice number, dates, line items and amounts."
+}
+]
+},
+{
+"file": "Part2 p73",
+"vendor_id": "V01",
+"vendor_name_as_printed": "Brightwell Office Supply Ltd",
+"vendor_tax_id": "TEST-V01-46902",
+"invoice_number": "V01-2026-9017",
+"invoice_date": "2026-03-05",
+"due_date": "2026-04-04",
+"currency": "GBP",
+"net_total": "494.70",
+"tax_total": "98.94",
+"gross_total": "593.64",
+"anomalies": []
+},
+{
+"file": "Part2 p74",
+"vendor_id": "V09",
+"vendor_name_as_printed": "Vela Componentes S.A.",
+"vendor_tax_id": "TEST-V09-41086",
+"invoice_number": "V09-2026-8446",
+"invoice_date": "2026-07-22",
+"due_date": "2026-09-05",
+"currency": "EUR",
+"net_total": "120.68",
+"tax_total": "25.34",
+"gross_total": "146.02",
+"anomalies": []
+},
+{
+"file": "Part2 p75",
+"vendor_id": "V07",
+"vendor_name_as_printed": "Zurlinden Software",
+"vendor_tax_id": "TEST-V07-75369",
+"invoice_number": "V07-2026-3499",
+"invoice_date": "2026-06-09",
+"due_date": "2026-06-23",
+"currency": "CHF",
+"net_total": "1803.89",
+"tax_total": "146.12",
+"gross_total": "1950.01",
+"anomalies": []
+},
+{
+"file": "Part2 p76",
+"vendor_id": "V08",
+"vendor_name_as_printed": "Oakmere Catering Ltd",
+"vendor_tax_id": "TEST-V08-69274",
+"invoice_number": "V08-2026-3917",
+"invoice_date": "2026-05-07",
+"due_date": "2026-06-06",
+"currency": "GBP",
+"net_total": "779.05",
+"tax_total": "155.81",
+"gross_total": "934.86",
+"anomalies": []
+},
+{
+"file": "Part2 p77",
+"vendor_id": "V10",
+"vendor_name_as_printed": "Harbor Lane IT Services LLC",
+"vendor_tax_id": "TEST-V10-23457",
+"invoice_number": "V10-2026-7221",
+"invoice_date": "2026-08-01",
+"due_date": "2026-09-15",
+"currency": "USD",
+"net_total": "2305.48",
+"tax_total": "0.00",
+"gross_total": "2305.48",
+"anomalies": []
+},
+{
+"file": "Part2 p78",
+"vendor_id": "V03",
+"vendor_name_as_printed": "Casa Albarel S.L.",
+"vendor_tax_id": "TEST-V03-11587",
+"invoice_number": "V03-2026-6918",
+"invoice_date": "2026-08-01",
+"due_date": "2026-09-15",
+"currency": "EUR",
+"net_total": "1142.62",
+"tax_total": "228.96",
+"gross_total": "1371.58",
+"anomalies": []
+},
+{
+"file": "Part2 p79",
+"vendor_id": "V04",
+"vendor_name_as_printed": "Pinecrest Cleaning Co.",
+"vendor_tax_id": "TEST-V04-73428",
+"invoice_number": "V04-2026-2446",
+"invoice_date": "2026-08-13",
+"due_date": "2026-09-27",
+"currency": "USD",
+"net_total": "1785.54",
+"tax_total": "0.00",
+"gross_total": "1785.54",
+"anomalies": []
+},
+{
+"file": "Part2 p80",
+"vendor_id": "V04",
+"vendor_name_as_printed": "Pinecrest Cleaning Co.",
+"vendor_tax_id": "TEST-V04-73428",
+"invoice_number": "V04-2026-8546",
+"invoice_date": "2026-06-28",
+"due_date": "2026-07-28",
+"currency": "USD",
+"net_total": "419.00",
+"tax_total": "0.00",
+"gross_total": "419.00",
+"anomalies": [
+{
+"type": "totals_mismatch",
+"explanation": "Printed net total is 419.00 USD, but the single line net is 319.00 USD, a difference of 100.00 USD."
+}
+]
+},
+{
+"file": "Part2 p81",
+"vendor_id": "V04",
+"vendor_name_as_printed": "Pinecrest Cleaning Co.",
+"vendor_tax_id": "TEST-V04-73428",
+"invoice_number": "V04-2026-2610",
+"invoice_date": "2026-05-06",
+"due_date": "2026-05-20",
+"currency": "USD",
+"net_total": "983.23",
+"tax_total": "0.00",
+"gross_total": "983.23",
+"anomalies": []
+},
+{
+"file": "Part2 p82",
+"vendor_id": "V09",
+"vendor_name_as_printed": "Vela Componentes S.A.",
+"vendor_tax_id": "TEST-V09-41086",
+"invoice_number": "V09-2026-8968",
+"invoice_date": "2026-02-20",
+"due_date": "2026-03-22",
+"currency": "EUR",
+"net_total": "527.61",
+"tax_total": "138.50",
+"gross_total": "666.11",
+"anomalies": [
+{
+"type": "vat_miscalc",
+"explanation": "All line items have a 21% tax rate, giving expected tax of 110.80 EUR, but printed tax is 138.50 EUR."
+}
+]
+},
+{
+"file": "Part2 p83",
+"vendor_id": "V05",
+"vendor_name_as_printed": "Atelier Mirelle SARL",
+"vendor_tax_id": "TEST-V05-67798",
+"invoice_number": "V05-2026-1766",
+"invoice_date": "2026-07-28",
+"due_date": "2026-08-11",
+"currency": "EUR",
+"net_total": "1458.60",
+"tax_total": "306.31",
+"gross_total": "1764.91",
+"anomalies": []
+},
+{
+"file": "Part2 p84",
+"vendor_id": "V09",
+"vendor_name_as_printed": "Vela Componentes S.A.",
+"vendor_tax_id": "TEST-V09-41086",
+"invoice_number": "V09-2026-3221",
+"invoice_date": "2026-08-04",
+"due_date": "2026-09-03",
+"currency": "EUR",
+"net_total": "673.89",
+"tax_total": "141.52",
+"gross_total": "815.41",
+"anomalies": [
+{
+"type": "handwritten_total",
+"explanation": "Printed TOTAL DUE of 815.41 EUR is crossed out and manually corrected to 795.41 EUR, marked 'ok'."
+}
+]
+},
+{
+"file": "Part2 p85",
+"vendor_id": "V03",
+"vendor_name_as_printed": "Casa Albarel S.L.",
+"vendor_tax_id": "TEST-V03-11587",
+"invoice_number": "V03-2026-1432",
+"invoice_date": "unknown",
+"due_date": "unknown",
+"currency": "EUR",
+"net_total": "1122.04",
+"tax_total": "235.63",
+"gross_total": "1357.67",
+"anomalies": [
+{
+"type": "date_ambiguity",
+"explanation": "Invoice date 02/05/2026 and due date 01/07/2026 use ambiguous numeric date formats without an explicitly stated day/month convention."
+}
+]
+},
+{
+"file": "Part2 p86",
+"vendor_id": "V07",
+"vendor_name_as_printed": "Zurlinden Software",
+"vendor_tax_id": "TEST-V07-75369",
+"invoice_number": "V07-2026-1538",
+"invoice_date": "2026-06-22",
+"due_date": "2026-07-22",
+"currency": "CHF",
+"net_total": "273.43",
+"tax_total": "22.15",
+"gross_total": "295.58",
+"anomalies": []
+},
+{
+"file": "Part2 p87",
+"vendor_id": "V06",
+"vendor_name_as_printed": "Kestrel Print & Signage",
+"vendor_tax_id": "TEST-V06-35089",
+"invoice_number": "unknown",
+"invoice_date": "2026-02-11",
+"due_date": "2026-02-25",
+"currency": "GBP",
+"net_total": "1687.53",
+"tax_total": "337.50",
+"gross_total": "2025.03",
+"anomalies": [
+{
+"type": "missing_invoice_number",
+"explanation": "No invoice number is printed on the document."
+}
+]
+},
+{
+"file": "Part2 p88",
+"vendor_id": "V02",
+"vendor_name_as_printed": "Nordhaven Logistik GmbH",
+"vendor_tax_id": "TEST-V02-58370",
+"invoice_number": "V02-2026-5058",
+"invoice_date": "2026-05-21",
+"due_date": "2026-06-04",
+"currency": "EUR",
+"net_total": "709.79",
+"tax_total": "149.06",
+"gross_total": "858.85",
+"anomalies": []
+},
+{
+"file": "Part2 p89",
+"vendor_id": "V02",
+"vendor_name_as_printed": "Nordhaven Logistik GmbH",
+"vendor_tax_id": "TEST-V02-58370",
+"invoice_number": "V02-2026-3962",
+"invoice_date": "2026-01-13",
+"due_date": "2026-02-12",
+"currency": "EUR",
+"net_total": "417.60",
+"tax_total": "87.70",
+"gross_total": "505.30",
+"anomalies": []
+},
+{
+"file": "Part2 p90",
+"vendor_id": "V05",
+"vendor_name_as_printed": "Atelier Mirelle SARL",
+"vendor_tax_id": "TEST-V05-67798",
+"invoice_number": "V05-2026-2064",
+"invoice_date": "2026-07-31",
+"due_date": "2026-08-30",
+"currency": "EUR",
+"net_total": "806.86",
+"tax_total": "169.44",
+"gross_total": "976.30",
+"anomalies": []
+},
+{
+"file": "Part2 p91",
+"vendor_id": "V06",
+"vendor_name_as_printed": "Kestrel Print & Signage",
+"vendor_tax_id": "TEST-V06-35089",
+"invoice_number": "V06-2026-9586",
+"invoice_date": "2026-06-15",
+"due_date": "2026-06-29",
+"currency": "GBP",
+"net_total": "2115.16",
+"tax_total": "423.03",
+"gross_total": "2538.19",
+"anomalies": []
+},
+{
+"file": "Part2 p92",
+"vendor_id": "V05",
+"vendor_name_as_printed": "Atelier Mirelle SARL",
+"vendor_tax_id": "TEST-V05-67798",
+"invoice_number": "V05-2026-3448",
+"invoice_date": "2026-06-24",
+"due_date": "2026-07-24",
+"currency": "EUR",
+"net_total": "1121.94",
+"tax_total": "235.61",
+"gross_total": "1357.55",
+"anomalies": []
+},
+{
+"file": "Part2 p93",
+"vendor_id": "V02",
+"vendor_name_as_printed": "Nordhaven Logistik GmbH",
+"vendor_tax_id": "TEST-V02-58370",
+"invoice_number": "V02-2026-2446",
+"invoice_date": "2026-05-30",
+"due_date": "2026-06-13",
+"currency": "EUR",
+"net_total": "1828.05",
+"tax_total": "383.89",
+"gross_total": "2211.94",
+"anomalies": []
+},
+{
+"file": "Part2 p94",
+"vendor_id": "V09",
+"vendor_name_as_printed": "Vela Componentes S.A.",
+"vendor_tax_id": "TEST-V09-41086",
+"invoice_number": "V09-2026-4374",
+"invoice_date": "2026-08-18",
+"due_date": "2026-09-17",
+"currency": "EUR",
+"net_total": "28.56",
+"tax_total": "6.00",
+"gross_total": "34.56",
+"anomalies": []
+},
+{
+"file": "Part2 p95",
+"vendor_id": "V03",
+"vendor_name_as_printed": "Casa Albarel S.L.",
+"vendor_tax_id": "TEST-V03-11587",
+"invoice_number": "V03-2026-6475",
+"invoice_date": "2026-03-28",
+"due_date": "2026-04-11",
+"currency": "EUR",
+"net_total": "1161.38",
+"tax_total": "243.89",
+"gross_total": "1405.27",
+"anomalies": []
+},
+{
+"file": "Part2 p96",
+"vendor_id": "V02",
+"vendor_name_as_printed": "Nordhaven Logistik GmbH",
+"vendor_tax_id": "TEST-V02-58370",
+"invoice_number": "V02-2026-2202",
+"invoice_date": "2026-04-11",
+"due_date": "2026-04-25",
+"currency": "EUR",
+"net_total": "1487.12",
+"tax_total": "312.29",
+"gross_total": "1799.41",
+"anomalies": []
+},
+{
+"file": "Part2 p97",
+"vendor_id": "V03",
+"vendor_name_as_printed": "Casa Albarel S.L.",
+"vendor_tax_id": "TEST-V03-11587",
+"invoice_number": "V03-2026-8938",
+"invoice_date": "2026-04-13",
+"due_date": "2026-04-27",
+"currency": "EUR",
+"net_total": "1116.38",
+"tax_total": "257.90",
+"gross_total": "1374.28",
+"anomalies": [
+{
+"type": "vat_miscalc",
+"explanation": "All line items have a 21% tax rate, giving expected tax of 234.44 EUR, but printed tax is 257.90 EUR."
+}
+]
+},
+{
+"file": "Part2 p98",
+"vendor_id": "V06",
+"vendor_name_as_printed": "Kestrel Print & Signage",
+"vendor_tax_id": "TEST-V06-35089",
+"invoice_number": "V06-2026-8901",
+"invoice_date": "2026-07-24",
+"due_date": "2026-08-23",
+"currency": "GBP",
+"net_total": "121.20",
+"tax_total": "24.24",
+"gross_total": "145.44",
+"anomalies": []
+},
+{
+"file": "Part2 p99",
+"vendor_id": "V10",
+"vendor_name_as_printed": "Harbor Lane IT Services LLC",
+"vendor_tax_id": "TEST-V10-23457",
+"invoice_number": "V10-2026-9321",
+"invoice_date": "2026-07-27",
+"due_date": "2026-08-26",
+"currency": "USD",
+"net_total": "6015.69",
+"tax_total": "0.00",
+"gross_total": "6015.69",
+"anomalies": [
+{
+"type": "resent_verbatim",
+"explanation": "Identical copy of the invoice already seen on Part1 p31, with the same vendor, invoice number, dates, line items and amounts."
+}
+]
+},
+{
+"file": "Part2 p100",
+"vendor_id": "V09",
+"vendor_name_as_printed": "Vela Componentes S.A.",
+"vendor_tax_id": "TEST-V09-41086",
+"invoice_number": "V09-2026-7950",
+"invoice_date": "unknown",
+"due_date": "unknown",
+"currency": "EUR",
+"net_total": "146.30",
+"tax_total": "30.72",
+"gross_total": "177.02",
+"anomalies": [
+{
+"type": "date_ambiguity",
+"explanation": "Invoice date 09/07/2026 and due date 01/09/2026 use ambiguous numeric date formats without an explicitly stated day/month convention."
+}
+]
+}
+]

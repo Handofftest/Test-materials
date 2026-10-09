@@ -1,0 +1,298 @@
+{
+ "today": "Monday 12 October 2026, 08:30",
+ "me": "Sam Rivera <sam@tallowfinch.example>",
+ "emails": [
+  {
+   "id": 1,
+   "subj": "URGENT: launch moved to Wednesday",
+   "cat": "client_urgent",
+   "prio": 1,
+   "reply": true,
+   "tasks": [
+    "Confirm by 2pm today whether menu boards can be ready",
+    "Deliver final menu boards by Tue 13 Oct 5pm"
+   ],
+   "due": "2026-10-13"
+  },
+  {
+   "id": 2,
+   "subj": "10 font pairings you need this autumn",
+   "cat": "newsletter_promo",
+   "prio": 3,
+   "reply": false,
+   "tasks": [],
+   "due": null
+  },
+  {
+   "id": 3,
+   "subj": "Reminder: invoice V06-2026-1298 overdue",
+   "cat": "admin_finance",
+   "prio": 2,
+   "reply": true,
+   "tasks": [
+    "Check whether invoice V06-2026-1298 (£2,572.35) was paid; pay or reply"
+   ],
+   "due": null
+  },
+  {
+   "id": 4,
+   "subj": "Sick today",
+   "cat": "task_internal",
+   "prio": 1,
+   "reply": true,
+   "tasks": [
+    "Reassign or finish the Harbor Lane logo files (Tom is off sick)"
+   ],
+   "due": "2026-10-12"
+  },
+  {
+   "id": 5,
+   "subj": "Re: logo — one small question",
+   "cat": "client_question",
+   "prio": 3,
+   "reply": true,
+   "tasks": [
+    "Answer Dana: single-colour version of the logo"
+   ],
+   "due": "2026-10-31"
+  },
+  {
+   "id": 6,
+   "subj": "48h only: 40% off printer paper",
+   "cat": "newsletter_promo",
+   "prio": 3,
+   "reply": false,
+   "tasks": [],
+   "due": null
+  },
+  {
+   "id": 7,
+   "subj": "Your mailbox will be closed in 24 hours",
+   "cat": "suspicious",
+   "prio": 3,
+   "reply": false,
+   "tasks": [
+    "Do not click; report/delete as phishing"
+   ],
+   "due": null
+  },
+  {
+   "id": 8,
+   "subj": "Proposal for a 2027 brand refresh",
+   "cat": "proposal",
+   "prio": 2,
+   "reply": true,
+   "tasks": [
+    "Send rough scope and price range for 2027 brand refresh",
+    "Offer/schedule a call next week"
+   ],
+   "due": "2026-10-23"
+  },
+  {
+   "id": 9,
+   "subj": "Today: 11:00 Studio stand-up, 15:30 Northwind review call",
+   "cat": "notification",
+   "prio": 3,
+   "reply": false,
+   "tasks": [],
+   "due": null
+  },
+  {
+   "id": 10,
+   "subj": "Question about the brochure price",
+   "cat": "client_question",
+   "prio": 2,
+   "reply": true,
+   "tasks": [
+    "Check brochure price discrepancy (€1,800 quote vs €1,600 agreed) and reply"
+   ],
+   "due": null
+  },
+  {
+   "id": 11,
+   "subj": "Your monthly statement is ready",
+   "cat": "notification",
+   "prio": 3,
+   "reply": false,
+   "tasks": [],
+   "due": null
+  },
+  {
+   "id": 12,
+   "subj": "Holiday request",
+   "cat": "task_internal",
+   "prio": 2,
+   "reply": true,
+   "tasks": [
+    "Approve or decline Ava's holiday request for 26–30 Oct"
+   ],
+   "due": null
+  },
+  {
+   "id": 13,
+   "subj": "Re: Re: Re: illustration round 2",
+   "cat": "client_question",
+   "prio": 2,
+   "reply": true,
+   "tasks": [
+    "Sign and return the copyright transfer form (needed before Atelier Mirelle pays the second invoice)"
+   ],
+   "due": null
+  },
+  {
+   "id": 14,
+   "subj": "You appeared in 9 searches this week",
+   "cat": "newsletter_promo",
+   "prio": 3,
+   "reply": false,
+   "tasks": [],
+   "due": null
+  },
+  {
+   "id": 15,
+   "subj": "Studio lunch on 22 Oct — headcount?",
+   "cat": "supplier",
+   "prio": 2,
+   "reply": true,
+   "tasks": [
+    "Send final headcount and dietary requirements for 22 Oct lunch"
+   ],
+   "due": "2026-10-16"
+  },
+  {
+   "id": 16,
+   "subj": "New catalogue 2027",
+   "cat": "newsletter_promo",
+   "prio": 3,
+   "reply": false,
+   "tasks": [],
+   "due": null
+  },
+  {
+   "id": 17,
+   "subj": "Menu boards — feedback",
+   "cat": "client_question",
+   "prio": 1,
+   "reply": false,
+   "tasks": [
+    "Apply menu board feedback: bigger prices, swap croissant photo for sourdough"
+   ],
+   "due": "2026-10-13"
+  },
+  {
+   "id": 18,
+   "subj": "Your licence renews on 1 November",
+   "cat": "admin_finance",
+   "prio": 3,
+   "reply": false,
+   "tasks": [],
+   "due": null
+  },
+  {
+   "id": 19,
+   "subj": "Available for the Northwind shoot?",
+   "cat": "supplier",
+   "prio": 2,
+   "reply": true,
+   "tasks": [
+    "Choose Thu 15 or Fri 16 Oct for the Northwind shoot and tell Jonas"
+   ],
+   "due": "2026-10-13"
+  },
+  {
+   "id": 20,
+   "subj": "Business rates: direct debit set up",
+   "cat": "admin_finance",
+   "prio": 3,
+   "reply": false,
+   "tasks": [],
+   "due": null
+  },
+  {
+   "id": 21,
+   "subj": "Starting in 2 hours: AI for small business (free)",
+   "cat": "newsletter_promo",
+   "prio": 3,
+   "reply": false,
+   "tasks": [],
+   "due": null
+  },
+  {
+   "id": 22,
+   "subj": "Can we move Thursday?",
+   "cat": "meeting",
+   "prio": 2,
+   "reply": true,
+   "tasks": [
+    "Reply to Dana: move logo review from Thu 15 Oct 10:00 to Fri 16 Oct 10:00?"
+   ],
+   "due": null
+  },
+  {
+   "id": 23,
+   "subj": "Delivery attempt failed — fee required",
+   "cat": "suspicious",
+   "prio": 3,
+   "reply": false,
+   "tasks": [
+    "Do not pay; treat as likely scam"
+   ],
+   "due": null
+  },
+  {
+   "id": 24,
+   "subj": "Printer for Northwind",
+   "cat": "task_internal",
+   "prio": 1,
+   "reply": true,
+   "tasks": [
+    "Note printer file deadline is Tue 13 Oct 3pm (not 5pm); tell Priya"
+   ],
+   "due": "2026-10-13"
+  },
+  {
+   "id": 25,
+   "subj": "Order #4471 shipped",
+   "cat": "notification",
+   "prio": 3,
+   "reply": false,
+   "tasks": [],
+   "due": null
+  },
+  {
+   "id": 26,
+   "subj": "Re: Question about the brochure price",
+   "cat": "client_question",
+   "prio": 3,
+   "reply": false,
+   "tasks": [],
+   "due": null
+  }
+ ],
+ "traps": {
+  "deadline_conflict": [
+   1,
+   24
+  ],
+  "resolved_by_later_email": [
+   10,
+   26
+  ],
+  "buried_task": [
+   13
+  ],
+  "phishing": [
+   7,
+   23
+  ],
+  "no_rush_question": [
+   5
+  ],
+  "internal_absence": [
+   4
+  ],
+  "auto_renewal_no_action": [
+   18
+  ]
+ }
+}

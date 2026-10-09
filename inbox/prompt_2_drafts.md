@@ -1,0 +1,1 @@
+Now draft a short reply for every email where "needs reply" is yes. Friendly, brief, in my voice (I'm Sam). Don't promise anything I haven't confirmed: put anything I need to decide in [square brackets].
